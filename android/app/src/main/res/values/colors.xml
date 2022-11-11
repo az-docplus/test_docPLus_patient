@@ -1,0 +1,10 @@
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#C81313</color>
+    <color name="teal">#068C06</color>
+    <color name="call_title_dark">#FFFFFF</color>
+    <color name="call_subtitle_dark">#CCCCCC</color>
+    <color name="call_title">#000000</color>
+    <color name="call_subtitle">#3E3E3E</color>
+    <color name="primary_dark">#000000</color>
+</resources>

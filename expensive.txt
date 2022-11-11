@@ -1,0 +1,80 @@
+    "@eva-design/eva": "^2.0.0",//TODO expensive
+    "@react-native-async-storage/async-storage": "^1.13.2",
+    "@react-native-community/blur": "^3.6.0",
+    "@react-native-community/clipboard": "^1.2.3",
+    "@react-native-community/datetimepicker": "^3.0.2",
+    "@react-native-community/geolocation": "^2.0.2",
+    "@react-native-community/google-signin": "^4.0.3",
+    "@react-native-community/masked-view": "^0.1.10",
+    "@react-native-community/netinfo": "^5.9.7",
+    "@react-native-community/picker": "^1.6.1",
+    "@react-native-community/viewpager": "^4.0.1",
+    "@react-native-firebase/app": "^10.3.0",
+    "@react-native-firebase/auth": "^10.3.1",
+    "@react-native-firebase/messaging": "^10.3.1",
+    "@react-navigation/bottom-tabs": "^5.9.2",
+    "@react-navigation/drawer": "^5.9.3",
+    "@react-navigation/native": "^5.7.6",
+    "@react-navigation/stack": "^5.9.3",
+    "@ui-kitten/components": "^5.0.0", //FIXME expensive
+    "axios": "^0.19.2",
+    "countrycitystatejson": "^20.8.9-a", //FIXME very expensive
+    "lodash": "^4.17.15", //FIXME expensive
+    "lottie-ios": "3.1.8",
+    "lottie-react-native": "^3.5.0",
+    "moment": "^2.26.0", //FIXME expensive
+    "moment-array-dates": "^2.0.3",
+    "moment-range": "^4.0.2",
+    "node-sass": "^4.14.1",//FIXME expensive
+    "prop-types": "^15.7.2",
+    "react": "16.11.0",
+    "react-content-loader": "^5.0.4",
+    "react-native": "0.62.2",
+    "react-native-agora": "^4.0.0", //FIXME VVV expensive
+    "react-native-animatable": "^1.3.3",
+    "react-native-autocomplete-input": "^4.2.0",
+    "react-native-calendar-picker": "^6.1.4",
+    "react-native-calendario": "^2.1.0",//TODO redundant
+    "react-native-chart-kit": "^6.6.1",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-document-picker": "^3.5.4",
+    "react-native-draggable-calendar": "^1.0.2",//TODO redundant
+    "react-native-elements": "^2.3.2",
+    "react-native-fbsdk": "^2.0.0",
+    "react-native-flash-message": "^0.1.21",
+    "react-native-gesture-handler": "^1.8.0",
+    "react-native-google-places-autocomplete": "^1.7.2",
+    "react-native-google-recaptcha-v2": "^1.1.0",
+    "react-native-i18n": "^2.0.15",
+    "react-native-image-picker": "^2.3.1",
+    "react-native-incall-manager": "^3.3.0",//FIXME VV expensive
+    "react-native-incoming-call": "^2.0.3",//FIXME redundant
+    "react-native-invoke-app": "^1.0.4",//FIXME redundant but useful
+    "react-native-linear-gradient": "^2.5.6",//FIXME inuse but redundant
+    "react-native-maps": "0.27.1",//FIXME VVVVVVV expensive
+    "react-native-masked-text": "^1.13.0",//FIXME can be neglegible
+    "react-native-modal": "^11.6.1",//FIXME redundant
+    "react-native-push-notification": "^6.1.3",//FIXME redundant but useful
+    "react-native-radial-gradient": "^1.0.7",//FIXME inuse but redundant
+    "react-native-razorpay": "^2.2.0",
+    "react-native-reanimated": "^1.13.1",
+    "react-native-root-toast": "^3.2.1",//FIXME expensive
+    "react-native-safe-area-context": "^3.1.8",
+    "react-native-safe-area-view": "^1.1.1",
+    "react-native-screens": "^2.11.0",
+    "react-native-sortable-list": "^0.0.24",//FIXME redundant
+    "react-native-svg": "^12.1.0", //FIXME expensive
+    "react-native-svg-charts": "^5.4.0",
+    "react-native-vector-icons": "^7.1.0",//FIXME expensive
+    "react-native-webrtc": "^1.84.1",//FIXME VVV expensive and redundant
+    "react-native-webview": "^11.2.3",//FIXME redundat
+    "react-navigation-animated-switch": "^0.5.12",//FIXME redundant
+    "react-redux": "^7.2.0",
+    "react-switch": "^5.0.1",//FIXME redundant
+    "recyclerlistview": "^3.0.0",//FIXME V expensive and redundant
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.3.0",
+    "rn-sliding-up-panel": "^2.4.2",//FIXME can be neglegible
+    "socket.io-client": "2.0.4"

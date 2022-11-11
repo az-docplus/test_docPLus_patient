@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="23.173" viewBox="0 0 23 23.173">
+    <defs>
+        <style>
+            .cls-1{fill:#7B7A79}
+        </style>
+    </defs>
+    <g id="Icon_ionic-ios-chatboxes" data-name="Icon ionic-ios-chatboxes" transform="translate(-6.374 -3.375)">
+        <path id="Path_72" d="M26.149 12.213h-12a1.932 1.932 0 0 0-2 2v8c0 1.161.839 3 2 3h7c.155 0-.111-.111 0 0l4 3c.194.188 0 .271 0 0v-3c0-.332.668 0 1 0 1.161 0 2-1.833 2-3v-8a1.926 1.926 0 0 0-2-2z" class="cls-1" data-name="Path 72" transform="translate(1.225 -1.838)"/>
+        <path id="Path_73" d="M10.374 8.375h10v-3a2.158 2.158 0 0 0-2-2h-13a2.158 2.158 0 0 0-2 2v9a2.158 2.158 0 0 0 2 2h3v-6a2.163 2.163 0 0 1 2-2z" class="cls-1" data-name="Path 73" transform="translate(3)"/>
+    </g>
+</svg>

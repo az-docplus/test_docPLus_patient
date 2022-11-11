@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DocPlus</string>
+    <string name="facebook_app_id">452012370382940</string>
+    <string name="fb_login_protocol_scheme">fb452012370382940</string>
+    <string name="facebook_client_token">e75b49bf5f6ef852cbde8944f6bad13a</string>
+</resources>

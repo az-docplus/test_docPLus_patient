@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="ringCircle" transform="translate(-119 -591)">
+    <circle id="ring" cx="13" cy="13" r="13" transform="translate(121 593)" fill="none" stroke="#f4c130" stroke-linecap="round" stroke-width="4"/>
+    <circle id="circle" cx="8" cy="8" r="8" transform="translate(126 598)" fill="#f4c130"/>
+  </g>
+</svg>

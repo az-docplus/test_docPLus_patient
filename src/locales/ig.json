@@ -1,0 +1,989 @@
+{
+    "doctor": {
+        "dashboard": {
+            "my_dashboard": "Dashboard m",
+            "revenue": "Ego mbata",
+            "approx_revenue": "Ihe ruru. ego ha nwetara",
+            "upcoming_appointments": "Nhọpụta na-abịa",
+            "no_appointments": "Enweghị Nhọpụta",
+            "recent_patients": "Ndị ọrịa na-adịbeghị anya",
+            "no_patient_found": "Ọ nweghị onye ọrịa ahụghị"
+        },
+        "V2": {
+            "bottom_compo": {
+                "title": {
+                    "home": "Ụlọ",
+                    "history": "Akụkọ ihe mere eme",
+                    "appointment": "Nhọpụta",
+                    "chats": "Nkata"
+                }
+            },
+            "sheet": {
+                "add_time_to_intake": "Tinye oge oriri",
+                "course_desc": "Nkọwa nkuzi",
+                "Search_med": "Ọgwụ ọchụchọ"
+            },
+            "doctor_home": {
+                "common_health_consern": "Nkwenye ahụike nkịtị",
+                "search": "Nchegbu, Ọpụrụiche ma ọ bụ Dọkịta",
+                "health_consern": [
+                    {
+                        "name": "Afọ ọjọọ",
+                        "image": "img1"
+                    },
+                    {
+                        "name": "Akpụkpọ anụ",
+                        "image": "img2"
+                    },
+                    {
+                        "name": "Nlekọta Covid",
+                        "image": "img3"
+                    },
+                    {
+                        "name": "Ụkwara & Oyi",
+                        "image": "img4"
+                    }
+                ],
+                "top_doctors": "Ndị dọkịta kacha",
+                "speciality": "Ọpụrụiche",
+                "All": "Ha niile",
+                "doctors_available_now": "Ndị dọkịta dị ugbu a",
+                "search_consern": {
+                    "health_consern": "Nchegbu ahụike",
+                    "show_more": "Gosikwuo",
+                    "show_less": "Gosi obere"
+                },
+                "Doc_Card": {
+                    "Button": {
+                        "book_appointment": {
+                            "Book": "Akwụkwọ",
+                            "Appointment": "Nhọpụta"
+                        },
+                        "Consult": "Kpọtụrụ ugbu a"
+                    },
+                    "Years": "Afọ"
+                },
+                "Sidebar": {
+                    "view_profile": "Lelee profaịlụ",
+                    "medical_records": "Ndekọ ọgwụ",
+                    "your_family": "Ezinụlọ gị",
+                    "get_100_by_gifting_care": "Nweta 100 site na Nlekọta Onyinye",
+                    "about_docplus": "Banyere Docplus",
+                    "help_&_support": "Enyemaka na Nkwado",
+                    "privacy_policy": "amụma nzuzo",
+                    "setting": "Ịtọ ntọala",
+                    "sign_out": "Pụọ",
+                    "sure": "Ị ji n'aka na ị chọrọ ịpụ?",
+                    "cancel": "CANCEL",
+                    "confirm": "KWUOO"
+                },
+                "signOut_card": {
+                    "unlimited": "Enweghị oke",
+                    "consultations": "Ndụmọdụ",
+                    "Consult_with_experts": "Consult with Experts for your everyday health concern",
+                    "button": "Nweta PLUS UGBUA"
+                }
+            },
+            "privacy_policy": {
+                "welcome": "Nnọọ",
+                "docplus": "DocPlus",
+                "1st": "Docplus gbalịsiri ike ichekwa nzuzo gị n'ịntanetị. Amụma nzuzo a na-agbalị ịkọwara gị omume anyị gbasara ozi nkeonwe anyị na-anakọta n'aka ndị ọrụ na webụsaịtị anyị, nke dị na https://www.docplus.online  na ọrụ ndị a na-enye site na saịtị ahụ. Ọ bụrụ na ị nwere ajụjụ ọ bụla gbasara amụma nzuzo anyị, omume nnakọta anyị, nhazi ozi onye ọrụ, ma ọ bụ ọ bụrụ na ị ga-achọ ịkọ akụkọ mmebi iwu ozugbo, biko kpọtụrụ anyị na welcome@docplus.online",
+                "intro": "Okwu mmalite maka iwu",
+                "2nd": "Amụma nzuzo dị n'ịntanetị a  na-akọwa omume nzuzo DocPlus maka docplus.online (tinyere ibe ya na atụmatụ ya, ) na ngwa ngwa mkpanaaka (yana ibe ya na atụmatụ ya, ). Amụma nzuzo a na-akọwa otu anyị si anakọta, jiri, kpughee na jikwaa ozi ị na-enye anyị na Saịtị ma ọ bụ ngwa, yana otu anyị si elekọta nzuzo gị yana chekwa ụdị ozi ahụ. Amụma nzuzo a metụtara gị na onye ọ bụla na-enyere gị aka ileta, nweta, debanye aha ma ọ bụ jiri saịtị ma ọ bụ mepụta Akaụntụ, ma ọ bụ na-enye anyị ozi nkeonwe, ụlọ ọrụ, ego ma ọ bụ ozi ndị ọzọ.",
+                "3rd": "Mgbe ị nweta ma ọ bụ jiri saịtị ma ọ bụ ngwa, ma ọ bụ nye anyị ozi ọ bụla, ị kwenyere na amụma nzuzo a. Ọ bụrụ na ị kwenyeghị na atumatu na omume anyị, nhọrọ gị abụghị iji ọrụ anyị. Site na ịnweta ma ọ bụ iji ọrụ anyị, ị kwenyere na amụma nzuzo a, ma ọ bụ mgbanwe ọ bụla anyị nwere ike mechaa mee na iwu nzuzo a. Mgbe ị mepụtara, deba aha ma ọ bụ banye na akaụntụ site na Saịtị ma ọ bụ ngwa, ị na-anabata ma na-ekweta na ụdị Amụma nzuzo a kacha ọhụrụ, yana usoro na ọnọdụ ngwa.",
+                "4th": "Saịtị ahụ nwere ike ịnwe njikọ na saịtị ndị ọzọ. Amụma nzuzo a anaghị emetụta ozi anakọtara na saịtị ndị ọzọ ma ọ nweghị ọrụ maka omume nzuzo nke ndị ọzọ ma ọ bụ ọdịnaya nke ha.",
+                "age": "Ndị ọrụ nọ n'okpuru afọ 18",
+                "5th": "Ezubere saịtị ahụ maka ndị okenye ka ha jiri ya. Ma saịtị ahụ ma ọ bụ ngwa emebere ma ọ bụ bu n'obi ka ha dọta, ma eduzighị ya, ụmụaka na-erubeghị afọ iri na asatọ (18). Ọ dịghị onye nọ n'okpuru afọ 18 nwere ike ịnye ozi ọ bụla na ma ọ bụ na weebụsaịtị, ọ dịghịkwa onye nọ n'okpuru afọ 21 nwere ike ịdebanye aha na weebụsaịtị. Anyị anaghị akpachara anya na-anakọta ozi nkeonwe site n'aka ndị ọrụ n'okpuru afọ 18.",
+                "6th": "Ọ bụrụ na ị nọ n'okpuru 18, ejighị ma ọ bụ nye ozi ọ bụla na weebụsaịtị, ma ọ bụ na ma ọ bụ site na nke ọ bụla n'ime njirimara ya, jiri nke ọ bụla n'ime mkparịta ụka ma ọ bụ nkwupụta ihu ọha. Weebụsaịtị ma ọ bụ nye anyị ozi ọ bụla gbasara onwe gị, gụnyere aha gị, adreesị, nọmba ekwentị, adreesị ozi-e, ma ọ bụ aha njirimara gị. Ọ bụrụ na ị nọ n'okpuru afọ 21, ị gaghị edebanye aha na webụsaịtị ma yabụ ị gaghị azụta ihe ọ bụla ma ọ bụ nweta ọrụ agụmakwụkwọ site na weebụsaịtị. Ọ bụrụ na anyị amụta na anyị anakọtala ma ọ bụ nweta ozi nkeonwe site n'aka nwatakịrị na-erubeghị afọ 18 na-enweghị nkwenye nke nkwenye nke nne na nna, anyị ga-eji mbọ ezi uche dị na ya zere iji ozi nkeonwe dị otú ahụ ma ọ bụ dowe ya n'ụdị nwere ike weghachite. Ọ bụrụ na ị kwenyere na anyị nwere ike nweta ozi ọ bụla site na ma ọ bụ gbasara nwatakịrị nọ n'okpuru afọ 18, biko kpọtụrụ anyị na care@docplus.com",
+                "category_info": "AKWỤKWỤKWỌ ozi",
+                "category": {
+                    "meta": "Anyị nwere ike ịnakọta ozi nkeonwe na nke na-abụghị nkeonwe gbasara gị site na saịtị na/ma ọ bụ ngwa.",
+                    "metaDesc": "Ozi anakọtara site na saịtị na/ma ọ bụ ngwa nwere ike ịgụnye",
+                    "Point": {
+                        "1st": "Aha (mbụ, ikpeazụ na/ma ọ bụ etiti) na aha njirimara, Ozi kọntaktị ụlọ (dịka ọmụmaatụ, adreesị ịgba ụgwọ na mbupu, adreesị ozi-e, nọmba ekwentị, nọmba fax), ụbọchị ọmụmụ, ihe ndị a zụrụ, paswọọdụ, zip/ koodu nzi ozi ma ọ bụ obodo, okike, ụbọchị ọmụmụ, mbinye aka electronic, ihe omume ntụrụndụ, mmasị. ",
+                        "2nd": "Foto ma ọ bụ vidiyo ruo n'ókè ị nyere.",
+                        "3rd": " Akụkọ gbasara ahụike, gụnyere nsonaazụ nke ajụjụ ajụjụ ọ bụla, nyocha, arịrịọ ozi, ajụjụ ọnụ, ma ọ bụ akwụkwọ akụkọ ndị ọzọ, ederede, vidiyo, ma ọ bụ mmekọrịta ọdịyo metụtara ịnye ọrụ ahụike. .",
+                        "4th": "Aha onye na-enye ọrụ na ụbọchị, oge na ọdịnaya nke ozi ọ bụla ezitere anyị",
+                        "5th": "njikọ ịntanetị, akụrụngwa ị na-eji nweta saịtị anyị na nkọwa ojiji] gbasara ojiji nke ọrụ ahụ [ Ozi ndị ọzọ anakọtara na-akpaghị aka ma ọ bụ nke ị họọrọ ịnye n'ụzọ ọ bụla, n'ụdị ma ọ bụ ụdị",
+                        "6th": "Kaadị kredit/debit na ozi ịgba ụgwọ ndị ọzọ",
+                        "7th": "Ozi gbasara ojiji nke ọrụ",
+                        "8th": "ozi ndị ọzọ anakọtara na-akpaghị aka ma ọ bụ nke ị họrọ ịnye n'ụzọ ọ bụla, ụdị ma ọ bụ ụdị"
+                    }
+                },
+                "category2": {
+                    "meta2": "Ozi ndị ọzọ anakọtara na ekwentị mkpanaaka gị nwere ike ịgụnye:",
+                    "Point2": {
+                        "1st": "ozi ID ngwaọrụ mkpanaaka",
+                        "2nd": "Geolocation",
+                        "3rd": "Aha ejikọtara na ngwaọrụ mkpanaka gị",
+                        "4th": "nọmba ekwentị jikọtara na ngwaọrụ mkpanaka gị",
+                        "5th": "Site na nkwenye doro anya, kọntaktị gị na/ma ọ bụ kọntaktị gị. ozi (dịka, aha, nọmba ekwentị, adreesị, adreesị ozi-e, foto) echekwara na ekwentị mkpanaaka gị; na/ma ọ bụ",
+                        "6th": "Site na nkwenye doro anya gị, ozi gbasara ngwa ngwanrọ ndị ọzọ dị na ngwaọrụ mkpanaka gị."
+                    }
+                },
+                "collected": {
+                    "meta": "OJI ozi anakọtara",
+                    "metaDesc": "Anyị nwere ike iji ozi anyị na-anakọta n'aka gị n'ụzọ dị iche iche, dịka ọmụmaatụ, ka:",
+                    "Point": {
+                        "1st": "Mepụta ojiji nke saịtị ahụ, ngwa na/ma ọ bụ ngwaahịa ha na/ma ọ bụ Services",
+                        "2nd": "Zitere gị ozi dị ka ọmụmaatụ, ozi-e nchịkwa, azịza ajụjụ gị na mmelite gbasara saịtị na/ma ọ bụ ngwa",
+                        "3rd": "Hazie ịkwụ ụgwọ gị",
+                        "4th": "Nye ozi na onyinye gụnyere ozi gbasara azụmaahịa, ngwaahịa na ọrụ ndị ọzọ. site na leta, email, ederede, ekwentị ma ọ bụ ụdị nkwurịta okwu ndị ọzọ",
+                        "5th": "Mee saịtị ahụ, ọdịnaya ngwa, njirimara na / ma ọ bụ ọrụ",
+                        "6th": "Melite ngwaahịa, ọrụ, ahịa na nkwado nkwado nke DocPLus",
+                        "7th": "Mepụta ngwaahịa, ọrụ ọhụrụ, ahịa na nkwalite maka DocPLus",
+                      "8th": "Ịzụ ahịa, ngwaahịa na/ma ọ bụ ọrụ nke DocPLus",
+                    "9th": "Nyere aka hazie ahụmịhe onye ọrụ na saịtị ahụ, ngwa na/ma ọ bụ ngwaahịa na/ma ọ bụ ọrụ ha dị iche iche",
+                    "10th": "Nyere aka hazie ahụmịhe onye ọrụ na saịtị ahụ, ngwa na/ma ọ bụ ngwaahịa na/ma ọ bụ ọrụ ha dị iche iche",
+                    "11th": "Tụgharịa omume na omume onye ọrụ na ma ọ bụ site na saịtị na/ma ọ bụ Ngwa",
+                    "12th": "Na-eme nyocha na nha maka ebumnuche ngwaahịa na nyocha ọrụ, nkwado mgbasa ozi, nyocha ahịa, na mmemme ndị ọzọ metụtara saịtị, ngwa na/ma ọ bụ ngwaahịa na/ma ọ bụ ọrụ ha dị iche iche] nke gị na ndị ọzọ na ma ọ bụ site na saịtị na/ma ọ bụ ngwa ahụ",
+                    "13th": "Ebe na soro iwu maka ngwaahịa n'aha gị",
+                    "14th": "Tọọ ma soro iwu maka ngwaahịa n'aha gị",
+                    "15th": ""
+                    }
+                },
+                "7th": "While we do not currently use third party services that display customized content and advertising provided by us, we may do so in the future. We may also use the information for statistical and/or marketing purposes, to improve our technologies, to provide information about our company and to deliver advertising and promotional information from our partners and third-party vendors. We may add your information to our databases to contact you through future e-mails, postal mailings and SMS text-messaging regarding site updates, upcoming events, new products and services and/or the status of orders placed online. We reserve the right to release information to law enforcement or other governmental officials as we, in our sole discretion, deem necessary to comply with applicable law.",
+                "web": {
+                    "meta": "OJI TECHNOLOGY WEB",
+                    "metaDesc": "DocPlus nwere ike iji nsochi dị iche iche, nchịkọta data na/ma ọ bụ teknụzụ nyocha data, gụnyere, ọmụmaatụ, ndị a:",
+                    "Point": {
+                        "1st": {
+                            "heading": "uki [kuki bụ obere faịlụ echekwara na ihe nchọgharị ma ọ bụ ngwaọrụ ị na-eji lelee weebụsaịtị ma ọ bụ ozi. Ha nwere ike inye aka chekwaa mmasị na ọrụ onye ọrụ, ma nwee ike ikwe ka webụsaịtị mata otu ihe nchọgharị ma ọ bụ ngwaọrụ. Enwere ụdị kuki dị iche iche, gụnyere, dịka ọmụmaatụ, kuki nchọgharị, kuki nnọkọ, na kuki na-adịgide adịgide. Kuki nwere ike ịdekọ ozi ị nwetara n'otu ibe weebụsaịtị iji mee ka mmekọrịta gị na webụsaịtị ahụ dị mfe, ma ọ bụ iji nyere aka kwalite azụmahịa gị na ibe ndị metụtara weebụsaịtị ahụ. A na-ahazi ọtụtụ ihe nchọgharị ka ha ga-anabata kuki na mbụ, mana ị nwere ike ịhazigharị mmasị ihe nchọgharị gị ma ọ bụ ngwaọrụ iji nye gị ọkwa mgbe ebudatara kuki, ma ọ bụ igbochi, jụ, gbanyụọ, ihichapụ ma ọ bụ jikwaa iji ya. nke ụfọdụ ma ọ bụ kuki niile dị na ihe nchọgharị ma ọ bụ ngwaọrụ gị. Kuki NJ nnọkọ ga-ekubi ume mgbe emechiri ihe nchọgharị. Kuki na-adịgide adịgide na-anọgide na draịvụ ike gị ruo ogologo oge. Kuki na-adịgide adịgide na-emekwa ka anyị nwee ike soro na lekwasịrị anya ọdịmma nke ndị ọrụ anyị iji kwalite ahụmịhe na saịtị ahụ. Ọ bụrụ na ị jụrụ kuki, ị ka nwere ike iji saịtị ahụ mana ike gị iji akụkụ ụfọdụ nke saịtị ahụ nwere ike kpachapụrụ anya.",
+                            "desc": "Due2385AE_1"
+                        },
+                        "2nd": {
+                            "heading": "FLASH COOKIES",
+                            "desc": "Kuki ọkụ bụ kuki e ji Adobe Flash dee, yana enwere ike ịchekwa ya na ngwaọrụ gị kpamkpam. Dị ka kuki oge niile, kuki Flash nwere ike inye aka chekwaa mmasị na ọrụ onye ọrụ, ma nwee ike ikwe ka webụsaịtị mata otu ihe nchọgharị ma ọ bụ ngwaọrụ. A naghị ejikwa kuki Flash site na otu ntọala ihe nchọgharị a na-eji maka kuki oge niile."
+                        },
+                        "3rd": {
+                            "heading": "WEB BEACONS",
+                            "desc": "Mgbama webụ bụ mpempe koodu agbakwunyere na webụsaịtị ma ọ bụ email iji nyochaa ọrụ gị na webụsaịtị ma ọ bụ mmeghe nke email gị, yana nke nwere ike ịnyefe ozi dị ka adreesị IP nke kọmputa ma ọ bụ ngwaọrụ ị na-eji. lelee webụsaịtị ma ọ bụ mepee email, ibe URL nke mgbama weebụ dị na ya, ụdị ihe nchọgharị eji abanye na webụsaịtị, na edobeburu ụkpụrụ kuki. A na-eji mgbama webụ mgbe ụfọdụ anakọta data mgbasa ozi dị ka ịgụta nlele ibe, nlele nkwalite ma ọ bụ nzaghachi mgbasa ozi. Ịkwụsị kuki kọmpụta gị, ngwaọrụ ma ọ bụ ihe nchọgharị nwere ike igbochi ụfọdụ mgbama weebụ nsuso ma ọ bụ dekọọ ụfọdụ ozi gbasara mmemme gị."
+                        },
+                        "4th": {
+                            "heading": "SCRIPTS",
+                            "desc": "Mgbama webụ bụ iberibe koodu agbakwunyere na webụsaịtị ma ọ bụ email iji nyochaa ọrụ gị na webụsaịtị ma ọ bụ mmeghe nke email gị, nke nwere ike ibunye ozi dị ka adreesị IP nke kọmputa ma ọ bụ ngwaọrụ ị na-eji lelee. webụsaịtị ma ọ bụ mepee email, ibe URL nke mgbama webụ dị na ya, ụdị ihe nchọgharị eji abanye na webụsaịtị ahụ, na edobeburu ụkpụrụ kuki. A na-eji mgbama webụ mgbe ụfọdụ anakọta data mgbasa ozi dị ka ịgụta nlele ibe, nlele nkwalite ma ọ bụ nzaghachi mgbasa ozi. Ịkwụsị kuki kọmpụta gị, ngwaọrụ ma ọ bụ ihe nchọgharị nwere ike igbochi ụfọdụ mgbama weebụ nsuso ma ọ bụ dekọọ ụfọdụ ozi gbasara mmemme gị."
+                        },
+                        "5th": {
+                            "heading": "Ihe nyocha",
+                            "desc": "A na-enye ngwaọrụ nyocha mgbe ụfọdụ site n'aka ndị ọzọ, yana soro, tụọ na/ma ọ bụ wepụta ozi gbasara okporo ụzọ weebụsaịtị ma ọ bụ mmemme, ire ahịa, ndị na-ege ntị na ozi ndị yiri ya, yana nke enwere ike iji ya maka ebumnuche dị iche iche, dị ka, dịka ọmụmaatụ, nyocha ọnụọgụgụ, nyocha ahịa, na nyocha ọkwa ọdịnaya, na nsochi ntụgharị. Ọmụmaatụ nke ngwaọrụ na ọrụ nyocha nke DocPlus nwere ike iji gụnyere Google Analytics. DocPlus nwekwara ike iji ngwaọrụ na ọrụ nyocha ndị ọzọ. Anyị na-eji ozi a nyochaa usoro, iji na-elekọta saịtị ahụ, iji soro mmegharị nke ndị ọrụ na saịtị ahụ na ịnakọta ozi gbasara igwe mmadụ gbasara ntọala onye ọrụ anyị n'ozuzu ya."
+                        }
+                    }
+                },
+                "security": {
+                    "heading": "Nchekwa",
+                    "desc": "Anyị na-emejuputa usoro nchekwa iji nyere aka kpuchido ozi nkeonwe anyị na-anakọta site na iji nchekwa nchekwa amaara ụlọ ọrụ dị ka nlekota saịtị, netwọk echekwara na sava, firewalls na nzuzo. Mgbe anyị na-arịọ maka ozi nwere mmetụta, anyị na-echebe ya site na iji ezoro ezo mgbe a na-ebufe ya, site na iji teknụzụ dị nchebe (SSL). N'agbanyeghị ihe e kwuru n'elu, biko hụ na nchekwa zuru oke ma ọ bụ 100% adịghị na ịntanetị. Ya mere, ịnweta na ojiji nke saịtị na / ma ọ bụ ngwa, na mmeghe nke ozi ọ bụla ezitere site na ma ọ bụ dịka ọrụ nke saịtị na / ma ọ bụ ngwa, na-eme n'ihe ize ndụ nke gị. Ọ bụ gị na-ahụ maka ichedo pụọ na ịnweta paswọọdụ gị n'enwetaghị ikike yana na kọmputa/ ngwaọrụ mkpanaaka gị. Anyị na-arịọ gị ka ị ghara ịkọrọ onye ọ bụla paswọọdụ gị.",
+                    "metaDesc": "Iji nyere aka idobe nchekwa nke ozi nkeonwe gị, DocPlus na-arịọ gị biko gwa ya ozugbo maka nleta na-enyeghị ikike, ịnweta ma ọ bụ ojiji nke saịtị na/ma ọ bụ ngwa, ma ọ bụ mfu ma ọ bụ n'enwetaghị ikike nke onye ọrụ nweta ozi maka saịtị ahụ. / ma ọ bụ ngwa (dịka, aha njirimara ma ọ bụ paswọọdụ)."
+                },
+                "communication": {
+                    "heading": "NKWUKWU",
+                    "desc": "Dabere na ozi nke ị na-enye anyị, anyị nwere ike izitere gị ozi-e nnabata. Anyị ga-esokwa gị kparịta ụka na nzaghachi nye ajụjụ gị, iji nye ọrụ ọ bụla ị rịọrọ, ịnye akwụkwọ akụkọ ma ọ bụ mmelite ndị ọzọ ị rịọrọ yana ijikwa akaụntụ gị. Na mgbakwunye, mgbe ị debanyere Akaụntụ n'aka anyị, ị nwere ike ịhọrọ ikwenye na anyị na-akpọtụrụ gị site na e-mail na ịnweta ndenye aha email, ozi-e na ozi-e-mail mgbasa ozi anyị. Ọ bụrụ na, n'oge ọ bụla, ị chọghịzi ka anyị kpọtụrụ gị site na e-mail na/ma ọ bụ nata ndenye aha e-mail anyị, e-mail na mgbasa ozi e-mail, ị nwere ike ịpụ na ọrụ ndị a site na ịgbanwe mmasị gị. Akaụntụ. Ị nwere ike ịkpọtụrụ ndị ahịa site na e-mail na ozi kọntaktị edepụtara n'okpuru iji nyere gị aka na mgbanwe ọ bụla na Akaụntụ gị."
+                },
+                "thirdParty": {
+                    "heading": "Ebe anyị nwere ike iji ndị ọzọ dị ka ndị mgbasa ozi netwọk na-eje ozi na saịtị anyị ma nwee ike iji ọrụ nha okporo ụzọ nyochaa okporo ụzọ na saịtị anyị. Ndị na-eweta netwọkụ mgbasa ozi nke saịtị nke atọ, ndị mgbasa ozi, ndị nkwado na/ma ọ bụ ọrụ nha okporo ụzọ nwere ike ịtọ ma nweta kuki nke ha na teknụzụ ndị ọzọ na kọmputa gị wee soro ụfọdụ ozi omume gbasara ndị ọrụ kọmputa gị site na adreesị IP ma ọ bụ ngwaọrụ ọzọ. njirimara. Kuki ndị ọzọ, mgbama webụ na teknụzụ ndị ọzọ bụ iwu nzuzo nke ndị ọzọ na-achịkwa, ọ bụghị nke a.",
+                    "desc": "Due2385AE_1"
+                },
+                "OPT": {
+                    "heading": "Ịhapụ na nsochi ndị otu atọ na saịtị anyị jiri ngwaọrụ ndị a.",
+                    "desc": "Ị nwere ike ịpụ na Ad Tech Network site na ịpị http: //www.youronlinechoices.com/opt-out-interface.",
+                    "1st": "Ọ bụrụ na ị ga-achọ ịpụ na ịnweta ozi dabere na mmasị anakọtara n'oge nleta gị na saịtị anyị ma ọ bụ saịtị ndị ọzọ, ma National Advertising Initiative (NAI) na Digital Advertising Alliance (DAA) na-enye ngwá ọrụ ịpụ apụ. iji nyere gị aka ijikwa nhọrọ gị. Pịa http: //www.networkadvertising.org/choices/ ịga na NAI wepụrụ ibe wee pịa http: //www.aboutads.info/choices/ maka DAA pụọ ibe.",
+                    "2nd": "Ị nwere ike ịga na http: //www.networkadvertising.org/understanding-online-advertising/ ka ịmatakwu gbasara mgbasa ozi mmasị dabere na nhọrọ gị gbasara ịnweta ozi a nke ndị ọzọ na-eji yana nhọrọ wepụ gị. Ịwepụ site na DAA ma ọ bụ NAI pụtara naanị na ndị DAA ma ọ bụ NAI agaghịzi enwe ike ịnye gị ọdịnaya na / ma ọ bụ mgbasa ozi ezubere iche, nke ga-emetụta saịtị anyị yana saịtị ndị ọzọ na-enweghị mmekọ, mana ọ pụtaghị na ị ga-eme ya. agaghịkwa enweta ọdịnaya na/ma ọ bụ mgbasa ozi ezubere iche. Ọzọkwa, ọ bụrụ na ahaziri ihe nchọgharị gị ka ọ jụ kuki mgbe ị gara na ibe ndị a pụọ, ma ọ bụ i mechaa hichapụ kuki gị, jiri kọmputa dị iche ma ọ bụ gbanwee ihe nchọgharị weebụ, nhọrọ ịpụpụ nwere ike ọ gaghị adị irè, ma ọ bụ nwee ike ọ gaghị adị irè.."
+                },
+                "opting_out": {
+                    "heading": "Ịpụ apụ",
+                    "desc": "Ọ bụrụ na ịchọrọ ka ewepụ gị na listi ahịa anyị ma achọghị ka anyị zitere gị ozi-e, ozi nzi ozi ma ọ bụ ozi ndị ọzọ gbasara ngwaahịa na ọrụ anyị, ị nwere ike ịpụ. Iji mee nke a, biko ziga ozi-e na care@docplus.com, ya na okwu wepu n'ahịrị isiokwu. http://www.youronlinechoices.com/opt-out-interface."
+                },
+                "california": {
+                    "heading": "Ikike nzuzo nke CALIFORNIA gị) [Nkebi nke koodu obodo California 1798.83 na-enye ndị bi na California ohere ịrịọ ụfọdụ ozi gbasara mkpughe ozi nkeonwe nke ndị bi na ndị ọzọ maka ebumnuche ahịa ndị ọzọ. Iji rịọ ụdị arịrịọ a, biko zitere anyị email na care@docplus.com",
+                    "desc": "Nkebi nke koodu obodo California 1798.83 na-enye ndị bi na California ohere ịrịọ ụfọdụ ozi gbasara mkpughe ozi nkeonwe nke ndị bi na ndị ọzọ maka ebumnuche ahịa ndị ọzọ. Iji rịọ ụdị arịrịọ a, biko zitere anyị email na care@docplus.com"
+                },
+                "privacy_update": {
+                    "heading": "Mmelite amụma nzuzo",
+                    "desc": "Anyị nwere ikike ịgbanwe amụma nzuzo a n'oge ọ bụla, yabụ biko na-enyocha ya mgbe niile. A ga-ebisa mgbanwe ọ bụla emere na amụma nzuzo a ebe a. Stampụ ụbọchị dị n'elu ibe ahụ na-anọchi anya ụbọchị ikpeazụ emelitere amụma nzuzo a. Ọ bụrụ na ị nwere ajụjụ gbasara amụma nzuzo a, ị nwere ike ịkpọtụrụ anyị na care@docplus.com. Site na ijikwa akaụntụ na anyị, ma ọ bụ site na iji ma ọ bụ nweta ọrụ ọ bụla nke anyị ma ọ bụ saịtị ahụ nyere, a ga-ewere gị na ị kwenyere na ịnakwere Amụma Nzuzo a."
+                },
+                "manage": {
+                    "heading": "Jikwaa ozi ziri ezi",
+                    "1st": "Ọ bụrụ na ozi gbasara onwe gị gbanwere, ma ọ bụ ọ bụrụ na ị naghịzi ahọrọ iji ọrụ anyị ma ọ bụ saịtị ahụ, ị ​​nwere ike ịkpọtụrụ ndị ọrụ ndị ahịa site na e-mail iji nyere gị aka na mgbanwe na Akaụntụ gị. Ruo ókè Akaụntụ gị mechiri ma ọ bụ na-adịghị arụ ọrụ, anyị ga-aga n'ihu na-echekwa ozi gị dịka akọwara na amụma nzuzo a. Ị nwere ike ịrịọ n'oge ọ bụla na DocPlus nyere gị ohere inyocha na gbanwee ozi gbasara gị anakọtara site na saịtị ma ọ bụ ngwa ma ọ bụ ka ị ghara iji ozi nkeonwe gị ọzọ iji nye gị ngwaahịa ma ọ bụ ọrụ ọ bụla.",
+                    "2nd": "Biko nyefee ụdị arịrịọ ọ bụla (“Arịrịọ gbasara ozi nkeonwe”) Site na email: care@docplus.com, jiri ahịrị isiokwu nke “ozi nkeonwe gị.” Maka arịrịọ ọ bụla gbasara ozi nkeonwe, biko kwupụta “ozi nkeonwe gị” n'ime ahịrị isiokwu email ma ọ bụ leta, wee kwupụta nke ọma ụdị arịrịọ gị na aha gị, adreesị okporo ámá, obodo, steeti, zip koodu na adreesị ozi-e. DocPlus anaghị aza ajụjụ maka Arịrịọ ọ bụla gbasara ozi nkeonwe nke ezughi oke, akara ezighi ezi, ma ọ bụ ezipughị ya.",
+                    "3rd": "Ọ bụ naanị gị na-ahụ maka izi ezi na ọdịnaya nke ozi nkeonwe gị, yana idobe ozi nkeonwe gị dị ugbu a yana zie ezie.",
+                    "4th": "Ọzọkwa, DocPlus anaghị aza akara ngosi Esochiela (DNT).",
+                    "5th": "N'ikpeazụ, dịka akọwara n'elu, DocPlus anaghị enye ndị ọzọ ikike ịnakọta ozi nkeonwe gị mgbe ị na-eji saịtị ma ọ bụ ngwa, belụsọ dị ka ekwuru n'ụzọ doro anya na amụma nzuzo a. Ruo n'ókè iwu kwadoro, DocPlus abụghị maka ya, ị na-ahapụkwa DocPlus na ụgwọ ọ bụla nwere ike ibilite na nchịkọta ozi nkeonwe gị n'enweghị ikike nke ndị ọzọ."
+                },
+                "policy_update": {
+                    "heading": "Mmelite Amụma Nzuzo",
+                    "desc": "Ọ bụrụ na okwu ọ bụla ma ọ bụ ọnọdụ nke amụma nzuzo a na-ewere na ọ bụ ihe na-abaghị uru ma ọ bụ enweghị ike ime ya site n'aka ụlọ ikpe nwere ikike ijikọ, mgbe ahụ agaghị emetụta usoro na ọnọdụ ndị ọzọ, ụlọ ikpe ga-agbanwekwa okwu ahụ mebiri emebi ma ọ bụ enweghị ike ime ya. ma ọ bụ ọnọdụ ruo oke ikike enyere n'okpuru iwu yana dabara na ebumnuche nke amụma nzuzo a."
+                },
+                "international_users": {
+                    "heading": "INTERNATIONAL USERS",
+                    "desc": " DocPlus dabere na United States, yana sava na ụlọ ọrụ anyị dị na United States. Biko mara na ozi ị na-enye anyị ma ọ bụ na anyị nwetara n'ihi ojiji nke Saịtị, Akaụntụ, ma ọ bụ ọrụ ọ bụla anyị nyere nwere ike hazie ma bufee ya na, ma nọrọ n'okpuru iwu United States. . Iwu nzuzo na nchekwa data dị na United States nwere ike ọ gaghị abụ otu iwu ndị yiri ya na obodo gị. Site na iji saịtị ma ọ bụ Akaụntụ, ma ọ bụ site n'inye anyị ozi gị, ị kwenyere na nnakọta, ịnyefe, nchekwa na nhazi nke ozi na na n'ime United States Untied. Ọ bụrụ na kuki anyị ma ọ bụ ngwanrọ ndị ọzọ achọpụta adreesị IP dị na mba na-abụghị United States, anyị nwere ikike ịgọnarị ọrụ anyị ọ bụla."
+                },
+                "contact_us": {
+                    "heading": "Kpọtụrụ anyị",
+                    "desc": "Ọ bụrụ na ị nwere ajụjụ ọ bụla ma ọ bụ aro gbasara amụma nzuzo a, saịtị ma ọ bụ ngwa biko kpọtụrụ anyị site na e-mail:"
+                }
+            },
+            "DoctorProfileScreen": {
+                "header": "Profaịlụ Dọkịta",
+                "Card": {
+                    "Titile": {
+                        "patients": "Ndị ọrịa",
+                        "rating": "Ngosipụta",
+                        "experience": "Ahụmahụ"
+                    }
+                },
+                "info_card": {
+                    "Title": {
+                        "overview": "Nleba anya",
+                        "availibility": "Nnweta",
+                        "fees": "Ụgwọ"
+                    }
+                },
+                "bottom_card": {
+                    "appointment_time": "Oge nhọpụta",
+                    "Next_available_slot": "Oghere na-esote dị",
+                    "book": "Akwụkwọ"
+                },
+                "availibility": {
+                    "title": "Oge dị",
+                    "doctor_is_not_avail": "Ndị dọkịta adịghị maka ụbọchị ahọpụtara",
+                    "avail_time": {
+                        "morning": "Ututu",
+                        "afternoon": "N'ehihie",
+                        "evening": "Mbubreyo",
+                        "night": "Abali"
+                    }
+                }
+            },
+            "appointment_detail": {
+
+                "header": "Amụma nzuzo",
+                "title": "Nkọwa oge",
+                "your_detail": "Nkọwa gị",
+                "switch_profile": "Gbanwee profaịlụ",
+                "details": {
+                    "height": "Ogologo",
+                    "bp": "BP",
+                    "temp": "Okpomọkụ",
+                    "gulucose": "Glucose",
+                    "heart_rate": "Ọnụọgụgụ obi",
+                    "weight": "Ibu"
+                },
+                "concern": "Nchegbu",
+                "plusCard": {
+                    "get": "weta ndụmọdụ a maka ₹0",
+                    "with": "ya na Docplus",
+                    "pro": "Ndị otu PRO"
+                },
+                "modal": {
+                    "title": "Kedu ihe kpatara nleba anya?",
+                    "search": "Tinye nchegbu gị ebe a",
+                    "common": "Ihe gbasara ahụike nkịtị"
+                },
+                "question": {
+                    "q1": "Kedu ihe kpatara nleba anya?",
+                    "q2": "Kemgbe ole mgbe ka ọ na-adị gị?",
+                    "q3": "Ugboro ole na-amasị gị nke a?",
+                    "q4": "Kedu ka mgbaàmà gị siri sie ike?",
+                    "q5": "Kọwaa nsogbu gị",
+                    "placeholder": "eg mgbe ụfọdụ isi ọwụwa na-akawanye njọ n'abalị",
+                    "optional": "Nhọrọ",
+                    "least": "Nke kacha nta",
+                    "very": "Nke ukwuu"
+                },
+                "question_card": {
+                    "q1": "Kemgbe mgbe",
+                    "q2": " Kedu ugboro ole",
+                    "q3": "Ogo",
+                    "q4": "Nkọwa"
+                }
+            },
+            "confirm_appointment": {
+                "message": "Edebanyela oge nhọpụta gị!",
+                "button": "Lelee nkọwa"
+            },
+            "booking_detail": {
+                "appointment_confirmed": " Nkọwa nhọpụta (Ekwetara)",
+                "detail": {
+                    "title": " Nkọwa ndị ọrịa",
+                    "patient": "Onye ndidi",
+                    "condition": "Ọnọdụ"
+                },
+                "cancel_button": "Nhọpụta Cancle",
+                "bottom_sheet": {
+                    "title": {
+                        "1st": "Ọ ga-amasị gị",
+                        "2nd": " Megharịa oge/ Cancle",
+                        "3rd": "nhọpụta ahụ"
+                    }
+                },
+                "button": {
+                    "reshedule": "Hagharịa oge",
+                    "cancel": "Kagbuo"
+                }
+            },
+            "your_family": {
+                "who_using": "Onye na-eji Docplus?",
+                "withDoc": "Site na profaịlụ Docplus ị nwere ike ịkpọtụrụ onye ọ bụla ma nwee ndekọ ahụike dị iche iche. Ị nwere ike ịmepụta profaịlụ maka ndị ị hụrụ n'anya.",
+                "add": "Tinye",
+                "member": "Onye otu",
+                "note": "Mara: Ị nwere ike ịnwe ndị otu 4 kacha",
+                "noMember": "Onweghi onye otu ahụrụ",
+                "modal": {
+                    "first_name": "Aha mbụ",
+                    "last_name": "Aha ikpeazụ",
+                    "relation": "Mmekọrịta",
+                    "email": "Email",
+                    "gender": {
+                        "male": "Nwoke",
+                        "female": "Nwanyị",
+                        "other": "Ndị ọzọ"
+                    },
+                    "contact": "Kpọtụrụ",
+                    "button": "Tinye otu",
+                    "button2": "emelitere"
+                }
+            },
+            "meidcalHistory": {
+                "search": "Chọọ",
+                "by_name": "n'aha",
+                "tabs": {
+                    "vitals": "Ihe dị mkpa",
+                    "Meds": "Ọgwụ",
+                    "reports": "Akụkọ",
+                    "surgeries": "Ịwa ahụ",
+                    "allergies": "Allergy",
+                    "refer": "Tụtụ aka",
+                    "settings": "Ntọala"
+                },
+                "Meds": {
+                    "placeholder": "Chọọ n'aha",
+                    "no_med": "Enweghị ọgwụ agbakwunyere",
+                    "button": "Tinye ọgwụ"
+                }
+            },
+            "Doctor_screen": {
+                "Home": {
+                    "welcome_back": "Nnọọ!",
+                    "Hi": "Ndewo",
+                    "Next_appointment_card": {
+                        "Next_Appointment": "Nhọpụta ọzọ",
+                        "Name": " Aha",
+                        "Concern": "Nchegbu",
+                        "View_Details": "Lelee nkọwa"
+                    },
+                    "revenue_card": {
+                        "earning": "Ị nweta ego",
+                        "Approximate_revenue_for": "Ego ga-enweta maka",
+                        "button": "Nkọwa ndị ọzọ"
+                    },
+                    "waiting_room_card": {
+                        "Waiting_room": "Ụlọ nchere",
+                        "Patients_waiting_to_be": "Ndị ọrịa na-echere ịbụ",
+                        "button": "Hụ ndị ọrịa"
+                    },
+                    "upcomming_appointment_card": {
+                        "Upcoming_appointments": "Nhọpụta na-abịa",
+                        "No_upcoming_appointments": " Enweghị nhọpụta na-abịa",
+                        "button": "Lelee All"
+                    },
+                    "recent_patient_card": {
+                        "recent_patients": " Ndị ọrịa na-adịbeghị anya",
+                        "No_upcoming_appointments": " Enweghị nhọpụta na-abịa"
+                    },
+                    "new_user": {
+                        "Welcome!": " Nnọọ!",
+                        "Thank": "Daalụ maka isonyere anyị ime",
+                        "healthcare_more": "nlekọta ahụike ka enwere ike ịnweta",
+                        "Explore_docplus": "Nyochaa Docplus"
+                    }
+                }
+            },
+            "verifyCategory": {
+                "title": "Ị bụ dọkịta?",
+                "yes": "Ee",
+                "no": "Mba"
+            },
+            "loginScreenCompo": {
+                "skip": "Mafee",
+                "welcome_to": "Nnọọ na",
+                "docplus": "DocPlus",
+                "access_quality": "Ịnweta ịdịmma gị",
+                "make_quality": "Nyere anyị aka ime mma",
+                "moreAcess": "nlekọta ahụike ka enwere ike ịnweta",
+                "yourComfort": "nlekọta ahụike na nkasi obi gị",
+                "convi": "na mma",
+                "login_signup": "banye",
+                "button": "Gaa n'ihu",
+                "or": "MA ọ bụ",
+                "continue_with": "Gaa n'ihu na",
+                "valid": "Biko tinye nọmba bara uru",
+                "number": "Nọmba gị",
+                "verified": "a kwadoro",
+                "privacy_mess": "Site na ịga n'ihu, ị kwenyere na Docplus'",
+                "condi": "Usoro na ọnọdụ",
+                "And": "Na",
+                "Privacy_Policy": "Amụma Nzuzo"
+            },
+            "otp_conf": {
+                "number": "Nọmba gị",
+                "verified": "a kwadoro",
+                "header": "Nyocha",
+                "enter": "Tinye koodu gị",
+                "type": "Biko pịnye koodu anyị zigara",
+                "resendOtp": "Ziga OTP",
+                "sent": "Koodu ezigara nke ọma!",
+                "button": "Gaa n'ihu",
+                "in": "n'ime",
+                "resend": "Koodu nzipu ozi",
+                "second": "sekọnd",
+                "error": "Enwere mperi na izigharị!"
+            }
+        },
+        "appointments": {
+            "my_appointments": "Nkọwa oge m ga-eme",
+            "appointments_details": "Chọọ aha n'aha",
+            "search_by_name": "Chọọ aha, ọrịa ma ọ bụ ebe",
+            "search_by_name_disease": "chọọ ọkwa",
+            "search_for_an_appointment": "Na-abịa",
+            "upcoming": "Akụkọ ihe mere eme",
+            "history": "Enweghị Nhọpụta",
+            "no_appointments": "na",
+            "to": "KWA NKE",
+            "confirm": "CANCEL] chọrọ ịkwụ ụgwọ ma kwado ọkwa ahụ?",
+            "cancel": "Chọọ aha n'aha0",
+            "pay_confirm": "Chọọ aha n'aha1"
+        },
+        "patients_list": {
+            "patients_list": "Ndị ọrịa na-adịbeghị anya",
+            "no_patient_found": "Ọnweghị onye ọrịa ahụghị",
+            "last_visit": "Nleta ikpeazụ",
+            "add_new": "Tinye ọhụrụ",
+            "add_patient": "Tinye onye ọrịa"
+        },
+        "patient_details": {
+            "patient_details": "Nkọwa ndị ọrịa",
+            "reason_for_visit": "Ihe mere ị ga-eji gaa",
+            "appointments": "Nhọpụta",
+            "medical_history": "Akụkọ ahụike"
+        },
+        "waiting": {
+            "online": "online",
+            "waiting_room": "Ụlọ Nchekwa",
+            "offlie": "anọghị n'ịntanetị",
+            "to_pay": "Ịkwụ ụgwọ",
+            "accept": "Nabata",
+            "cancel": "Kagbuo",
+            "reason_visit": "Ihe kpatara nleta",
+            "last_visit": "Nleta ikpeazụ",
+            "no_of_patient": "Mba. nke ndị ọrịa nọ n'ọnụ ụlọ nchere",
+            "next_in_line": "N'ahịrị na-esote",
+            "no_app_found": "Ụlọ Nchekwa0",
+            "appointment_with": "Ụlọ Nchekwa1"
+        },
+        "template": {
+            "no_temp_added": "Ọnweghị ihe atụ agbakwunyere",
+            "add_temp": "Tinye Template",
+            "med": "Ọgwụ",
+            "rep": "Nkọwa",
+            "con": "Ọnọdụ",
+            "rep_name": "Aha akụkọ",
+            "rep_type": "Ụdị mkpesa",
+            "update": "Mmelite"
+        },
+        "medical_history": {
+            "weight": "Arọ",
+            "recorded_on": "Edekọkwara na",
+            "height": "Ego",
+            "blood_pressure": "Ọbara mgbali",
+            "heart_rate": "Okpomọkụ obi",
+            "temperature": "Okpomọkụ",
+            "glucose": "Glucose",
+            "enter_your_bp": "Tinye Ọbara Ọbara",
+            "search_symptoms": "Chọọ akara ngosi gị",
+            "to": "na",
+            "no_medicine_added": "Edekọkwara na0",
+            "add_medications": "Edekọkwara na1",
+            "add_reports": "Edekọkwara na2",
+            "no_record_added": "Edekọkwara na3",
+            "added_by": "Edekọkwara na4",
+            "download_report": "Edekọkwara na5",
+            "upload_report": "Edekọkwara na6",
+            "upload_report_file": "Edekọkwara na7",
+            "no_surgeries_found": "Edekọkwara na8",
+            "add_surgeries": "Edekọkwara na9",
+            "date": "Ego0",
+            "calendar": "Ego1",
+            "ot": "Ego2",
+            "surgeon": "Ego3",
+            "status": "Ego4",
+            "no_allergies_found": "Ego5",
+            "add_allergies": "Ego6",
+            "severity": "Ego7",
+            "reaction": "Ego8",
+            "add_height": "Ego9",
+            "add_your_height": "Ọbara mgbali0",
+            "add_weight": "Ọbara mgbali1",
+            "fat_mass": "Ọbara mgbali2",
+            "record_temperature": "Ọbara mgbali3",
+            "record_your_temp": "Ọbara mgbali4",
+            "centigrade": "Ọbara mgbali5",
+            "fahrenheit": "Ọbara mgbali6",
+            "pulse": "Ọbara mgbali7",
+            "add_blood_pressure": "Ọbara mgbali8",
+            "systolic": "Ọbara mgbali9",
+            "diastolic": "Okpomọkụ obi0",
+            "add_surgery_details": "Okpomọkụ obi1",
+            "add_heart_rate": "Okpomọkụ obi2",
+            "add_pills": "Okpomọkụ obi3",
+            "time": "Okpomọkụ obi4",
+            "allergy_name_type": "Okpomọkụ obi5",
+            "course_description": "Okpomọkụ obi6",
+            "search_medicine": "Okpomọkụ obi7",
+            "name_of_the_pill": "Okpomọkụ obi8",
+            "amount_to_be_taken": "Okpomọkụ obi9",
+            "course_duration": "Okpomọkụ0",
+            "cancel": "Okpomọkụ1",
+            "add_a_record": "Okpomọkụ2"
+        },
+        "AddAppoitments": {},
+        "AddQuestionnaire": {
+            "AddCategory": {
+                "categories": "Ụdị",
+                "add_category": "Tinye udi",
+                "category_name": "Aha Udi",
+                "title": "Aha",
+                "name_of_category": "Aha nke otu",
+                "question_type": "Ụdị ajụjụ",
+                "type_your_question": "Tinye ajụjụ gị",
+                "submit": "Nyefee",
+                "any_sub_question": "ajụjụ ọ bụla?",
+                "no_questions": "Enweghị ajụjụ, tinye otu ugbu a!",
+                "add_option": "Tinye udi0",
+                "update": "Tinye udi1",
+                "delete": "Tinye udi2",
+                "add_question": "Tinye udi3",
+                "reset": "Tinye udi4",
+                "next": "Tinye udi5",
+                "no_question_asked": "Tinye udi6",
+                "you_can_skip": "Tinye udi7"
+            },
+            "Categories": {
+                "categories": "Ụdị",
+                "vitals": "VITALS",
+                "each_criteria_can_be_edited_and_modified": "Enwere ike dezie ma gbanwee ụkpụrụ ọ bụla.",
+                "view": "Lelee",
+                "add_category": "ADD CATEGORY"
+            }
+        },
+        "Chats": {
+            "search": "chọọ",
+            "convers": "Mkparịta ụka",
+            "search_chat": "Chọọ Chat...",
+            "type_a_message": "Tinye ozi...",
+            "chat": "Nkata",
+            "add_pres": "Tinye Ndenye ọgwụ",
+            "refer": "Ntụaka"
+        },
+        "DoctorDetail": {},
+        "FindDoctor": {
+            "now": "Ugbu a",
+            "search_your_patient": "chọọ onye ọrịa gị",
+            "available_doctors": "Ndị dọkịta dị"
+        },
+        "home": {
+            "appointments": "Ndewo",
+            "hello": "Ị nwere",
+            "you_have": "Due2385AE_2"
+        },
+        "Languages": {
+            "region_and_lang": "Region and Language",
+            "region": "Region",
+            "language": "Asụsụ"
+        },
+        "PatientDetails": {
+            "patient_details": "Nkọwa ndị ọrịa",
+            "medical_history": "Akụkọ ahụike",
+            "reports": "Akụkọ",
+            "appointments": "Nhọpụta",
+            "notes": "Ihe edeturu",
+            "save_changes": "Chekwaa Mgbanwe"
+        },
+        "Patients": {
+            "patients": "Ndị ọrịa",
+            "last_visit": "Nleta ikpeazụ"
+        },
+        "Profile": {
+            "pers_info": "Ozi nkeonwe",
+            "upload": "ebugote",
+            "email": "Email",
+            "fees": "ụgwọ",
+            "phone": "ekwentị",
+            "about_you": "Banyere gị",
+            "registration_no": "nọmba ndebanye aha",
+            "registration_council": "akwụkwọ ndebanye aha",
+            "registration_year": "Afọ ndebanye aha",
+            "url": "Url",
+            "year": "ebugote0",
+            "yes": "ebugote1",
+            "no": "ebugote2",
+            "upload_sign": "ebugote3",
+            "appointments": "ebugote4",
+            "questionaire": "ebugote5",
+            "logout": "ebugote6"
+        },
+        "Referrals": {
+            "refer_a_friend": "Tụgharịa Enyi",
+            "rewards": "Ụgwọ Ọrụ",
+            "refer_friends.": "Tụgharịa ndị enyi.",
+            "unlock_rewards": "Mepee ụgwọ ọrụ"
+        },
+        "Settings": {
+            "settings": "Ntọala",
+            "notification": "Ịma Ọkwa",
+            "sms_notification": "SMS Ịma Ọkwa",
+            "mobile_notification": "Mobile Ịma Ọkwa",
+            "email_notification": "Email Ịma Ọkwa",
+            "booking_details": "Nkọwa ntinye akwụkwọ",
+            "account": "Akaụntụ",
+            "old_pass": "Ochie Paswọdu",
+            "new_pass": "Password ọhụrụ",
+            "con_pass": "Kwenye okwuntughe",
+            "on": "Ịma Ọkwa0",
+            "off": "Ịma Ọkwa1",
+            "edit_your_profile": "Ịma Ọkwa2",
+            "signout": "Ịma Ọkwa3",
+            "doctor_on_demand": "Ịma Ọkwa4",
+            "block": "Ịma Ọkwa5",
+            "logout": "Ịma Ọkwa6",
+            "update_profile_picture": "Ịma Ọkwa7",
+            "gallery": "Ịma Ọkwa8",
+            "camera": "Ịma Ọkwa9",
+            "remove_photo": "SMS Ịma Ọkwa0",
+            "update_profile_details": "SMS Ịma Ọkwa1",
+            "submit": "SMS Ịma Ọkwa2",
+            "my_appointments": "SMS Ịma Ọkwa3",
+            "questionnaire": "SMS Ịma Ọkwa4",
+            "clinics": "SMS Ịma Ọkwa5",
+            "template": "SMS Ịma Ọkwa6",
+            "my_staff": "SMS Ịma Ọkwa7",
+            "availability": "SMS Ịma Ọkwa8",
+            "payment": "SMS Ịma Ọkwa9",
+            "my_teams": "Mobile Ịma Ọkwa0",
+            "profile": "Mobile Ịma Ọkwa1",
+            "skin": "Mobile Ịma Ọkwa2",
+            "privacy_policy": "Mobile Ịma Ọkwa3",
+            "phone": "nọmba ekwentị",
+            "email": "email"
+        },
+        "clinics": {
+            "no_clinics_found": "Ọnweghị ụlọ ọgwụ ahụghị"
+        },
+        "Skins": {
+            "primary": "Primary",
+            "dark": "Ọchịchị",
+            "mini": "Obere"
+        },
+            "profile": {
+                "profile": "Profile",
+                "name": "Aha",
+                "age": "Age",
+                "gender": "Gender",
+                "bio": "Bio",
+                "education_qualifications": "Nzuzu agụmakwụkwọ",
+                "registration_details": "Nkọwa ndebanye aha",
+                "payment": "ụgwọ",
+                "view_policy": "Nlebaanya amụma",
+                "country_wise_fee": "Tinye ego nleba anya nke obodo",
+                "practice": "Aha0",
+                "follow_ups": "Aha1",
+                "strict": "Aha2",
+                "moderate": "Aha3",
+                "flexible": "Aha4"
+            },
+        "view_policy": {
+            "cancellation_policy": "Amụma ịkagbu",
+            "flexible_para": "Nkwụghachi ụgwọ zuru ezu ma ọ bụrụ na ịkagbu dị n'ime awa 6 nke ntinye akwụkwọ maka nkwụghachi ụgwọ ndụmọdụ ndụmọdụ, ịkagbu a ga-emerịrị awa 6 tupu oge nhazi. Ọ bụrụ na onye ọrịa akagbuo ihe na-erughị awa 6 tupu oge 60% nke ụgwọ ndụmọdụ. A ga-akwụghachi [dị ka ego ma ọ bụ% ego].",
+            "moderate_para": "Nkwụghachi ụgwọ zuru ezu ma ọ bụrụ na ịkagbu ahụ bụ n'ime awa 24 nke ntinye akwụkwọ (ụbọchị 1) Maka nkwụghachi ụgwọ ndụmọdụ, ịkagbu ga-emerịrị ụbọchị 1 tupu oge nhazi. Dịka ọmụmaatụ, ọ bụrụ na nhọpụta bụ na Fraịde, kagbuo site na Tuesday tupu oge nhazi. Ọ bụrụ na onye ọrịa akagbuo ihe na-erughị otu ụbọchị tupu 60% nke ụgwọ ndụmọdụ [dị ka ego ma ọ bụ% ego] ga-akwụghachi.] ụgwọ, kagbuo ga-mere 5 zuru ụbọchị tupu oge nhọpụta, ma ọ bụghị nkwụghachi. Ọ bụrụ na onye ọrịa akagbuo ihe na-erughị ụbọchị 5 tupu 60% nke ụgwọ ndụmọdụ [dị ka ego ma ọ bụ% ego] nke ụgwọ ndụmọdụ ga-akwụghachi.",
+            "strict_para": "Due2385AE_3"
+        },
+        "my_staff": {
+            "_inviteemail": "Kpọọ site na Email",
+            "invite_doctor": "Kpọọ ndị dọkịta",
+            "permissions": "ikike",
+            "my_appointments": "Nkwenye m",
+            "questionnaire": "Ajụjụjụ",
+            "clinics": "Clinics",
+            "availiblity": "Availiblity",
+            "my_staff": "Ndị ọrụ m",
+            "payment": "ụgwọ",
+            "my_teams": "Ndị otu m",
+            "skin": "Kpọọ ndị dọkịta0",
+            "email": "Kpọọ ndị dọkịta1",
+            "phone_number": "Kpọọ ndị dọkịta2",
+            "add_doctor": "Kpọọ ndị dọkịta3",
+            "doctor_name": "Kpọọ ndị dọkịta4",
+            "doctor_not_available": "Kpọọ ndị dọkịta5",
+            "invite_to_join_docplus": "Kpọọ ndị dọkịta6"
+        },
+        "my_teams": {
+            "my_teams": "Ndị otu m",
+            "teams": "otu",
+            "team_name": "Aha otu",
+            "requests": "Arịrịọ",
+            "no_pending_requests": "Enweghị arịrịọ na-echere",
+            "no_teams_found": "Ọ nweghị otu ahụrụ",
+            "add_team_details": "Tinye nkọwa otu",
+            "update": "Mmelite"
+        },
+        "payment": {
+            "payment": "Ụgwọ ịkwụ ụgwọ",
+            "payment_option": "Họrọ nhọrọ ịkwụ ụgwọ",
+            "add_bank_details": "Tinye nkọwa ụlọ akụ",
+            "payment_after_consult": "ụgwọ mgbe a gbachara ajụjụ",
+            "payment_before_consult": "ụgwọ tupu nyocha",
+            "danate_time": "Oge inye onyinye"
+        },
+        "availablity": {
+            "availability": "Ọ dị",
+            "tele_consult": "Tele-consult",
+            "in_person": "N'ime mmadụ",
+            "appointment_duration": "Oge oge oge",
+            "choose_any_day": "Họrọ ụbọchị ọ bụla ruo izu iji megharịa availabilty a",
+            "working_hours": "Oge Ọrụ",
+            "start_time": "Oge Mmalite",
+            "end_time": "Oge Ọgwụgwụ",
+            "break_hours": "Ụbọchị ezumike",
+            "monday": "Monday",
+            "tuesday": "Tele-consult0",
+            "wednesdayy": "Tele-consult1",
+            "thursday": "Tele-consult2",
+            "friday": "Tele-consult3",
+            "saturday": "Tele-consult4",
+            "sunday": "Tele-consult5"
+        }
+    },
+    "patient": {
+        "appointmentForm": {},
+        "appointments": {
+            "appointment": "Nhazi oge",
+            "add_notes": "Tinye ndetu maka dọkịta",
+            "contact_number": "Nọmba kọntaktị",
+            "reason_for_visit": "Ihe kpatara nleta"
+        },
+        "consultations": {
+            "consult": "Kpọtụrụ"
+        },
+        "doc_profile": {
+            "doc_plus": "DocPlus",
+            "permission_msg": "ngwa a chọrọ ịnweta ọnọdụ gị",
+            "doctor_profile": " Profaịlụ dọkịta ",
+            "reviews": "Nlebaanya",
+            "review": "Nlebaanya",
+            "patients": "Ndị ọrịa",
+            "patient": "Onye ọrịa",
+            "experience": "ahụmahụ",
+            "about": "Banyere",
+            "fee": "ụgwọ",
+            "feedback": "ngwa a chọrọ ịnweta ọnọdụ gị0",
+            "book_appointment": "ngwa a chọrọ ịnweta ọnọdụ gị1",
+            "consultation_fees": "ngwa a chọrọ ịnweta ọnọdụ gị2",
+            "exp_question": "ngwa a chọrọ ịnweta ọnọdụ gị3",
+            "add_feedback": "ngwa a chọrọ ịnweta ọnọdụ gị4",
+            "feedbacks": "ngwa a chọrọ ịnweta ọnọdụ gị5",
+            "tell_us_liked": "ngwa a chọrọ ịnweta ọnọdụ gị6",
+            "book": "ngwa a chọrọ ịnweta ọnọdụ gị7",
+            "doc_not_avail": "ngwa a chọrọ ịnweta ọnọdụ gị8"
+        },
+        "appointment_summary": {
+            "appointment_summary": "Nchịkọta oge",
+            "patient_details": "Nkọwa onye ọrịa",
+            "consultation_fee": "ụgwọ ndụmọdụ",
+            "notes": "Ihe edeturu",
+            "answers": "Azịza",
+            "reason": "Ihe kpatara",
+            "add_notes": "Tinye ndetu maka dọkịta"
+        },
+        "familyMember": {
+            "family_member": "Onye otu ezinaụlọ",
+            "no_member_found": "Ọnweghị onye ahụrụ",
+            "add_member": "Tinye otu",
+            "first_name": "Aha mbụ",
+            "last_name": "Aha ikpeazụ",
+            "email": "Email",
+            "phone_number": "nọmba ekwentị",
+            "gender": "Gender",
+            "male": "Nwoke",
+            "female": "Nwanyị",
+            "transgender": "Ọnweghị onye ahụrụ0",
+            "date_of_birth": "Ọnweghị onye ahụrụ1",
+            "contact_number": "Ọnweghị onye ahụrụ2",
+            "relationship": "Ọnweghị onye ahụrụ3",
+            "cancel": "Ọnweghị onye ahụrụ4",
+            "add": "Ọnweghị onye ahụrụ5"
+        },
+        "home": {
+            "find_a_doctor": "Chọta dọkịta",
+            "now": "Ugbu a",
+            "schedule": "SCHEDULE",
+            "search_your_patient": "chọọ onye ọrịa gị",
+            "available_doctors": "Ndị dọkịta dị",
+            "empty": "Empty",
+            "empty_superDocs": "Empty superDocs"
+        },
+        "medicalrecords": {
+            "hello": "Ndewo",
+            "medical_history": "Akụkọ ahụike",
+            "add_a_new_medication": "Tinye ọgwụ ọhụrụ",
+            "save": "Chekwaa",
+            "search_medicine": "Ọgwụ ọchụchọ",
+            "dose_appearance": "Ọdịiche dose",
+            "colors": "Agba",
+            "take_as_per_needed": "Were dị ka achọrọ",
+            "schedule": "Nhazi oge",
+            "start_date": "Ụbọchị mmalite",
+            "select_start_date": "Akụkọ ahụike0",
+            "end_date": "Akụkọ ahụike1",
+            "reminders_&_Dosage": "Akụkọ ahụike2"
+        },
+        "more": {
+            "help": {},
+            "settings": {}
+        },
+        "my_profile": {
+            "my_profile": " Profaịlụ m ",
+            "medical_history": "Akụkọ ahụike",
+            "my_family": " Ezinụlọ m ",
+            "my_healthcare_team": "Ndị otu nlekọta ahụike m",
+            "my_appointments": "N'oge m",
+            "my_transactions": "Azụmahịa M",
+            "refferal": "Ntụgharị",
+            "settings": "Ntọala",
+            "logout": "Mpụpụ",
+            "update_profile_picture": "Foto profaịlụ",
+            "gallery": "Akụkọ ahụike0",
+            "camera": "Akụkọ ahụike1",
+            "remove_photo": "Akụkọ ahụike2",
+            "update_profile_details": "Akụkọ ahụike3",
+            "submit": "Akụkọ ahụike4"
+        },
+        "medical_history": {
+            "medical_history": "Akụkọ ahụike",
+            "recorded_on": "dekọtara na",
+            "modified_by": "gbanwere ya",
+            "systolic": "Systolic",
+            "diastolic": "Diastolic",
+            "blood_sugar": "BloodSugar",
+            "name_of_report": "Aha akụkọ",
+            "type_of_test": "Ụdị ule",
+            "surgery_type": "ụdị ịwa ahụ",
+            "surgion_name": "Aha ịwa ahụ",
+            "ot_or": "dekọtara na0",
+            "select_date": "dekọtara na1"
+        },
+        "medical_logs": {
+            "medical_logs": "Akwụkwọ ndekọ ahụike",
+            "no_log_found": "Ọ nweghị akwụkwọ ndekọ ahụike ahụghị"
+        },
+        "my_family": {
+            "my_family": "Ezinụlọ m",
+            "no_family_member_added": "Ọnweghị onye ezinaụlọ m hụrụ",
+            "add_member": "Tinye onye otu",
+            "first_name": "Aha mbụ",
+            "last_name": "Aha ikpeazụ",
+            "relationship": "Mmekọrịta",
+            "email": "Email",
+            "phone_number": "nọmba ekwentị",
+            "contact": "Nọmba Kọntaktị",
+            "select_gender": "Họrọ okike",
+            "male": "Ọnweghị onye ezinaụlọ m hụrụ0",
+            "female": "Ọnweghị onye ezinaụlọ m hụrụ1",
+            "transgender": "Ọnweghị onye ezinaụlọ m hụrụ2",
+            "medical_history": "Ọnweghị onye ezinaụlọ m hụrụ3",
+            "date_of_birth": "Ọnweghị onye ezinaụlọ m hụrụ4",
+            "cancel": "Ọnweghị onye ezinaụlọ m hụrụ5",
+            "add": "Ọnweghị onye ezinaụlọ m hụrụ6",
+            "update": "Ọnweghị onye ezinaụlọ m hụrụ7"
+        },
+        "my_doctors": {
+            "my_doctors": "Ndị dọkịta m",
+            "no_doctors": "Ọ dịghị dọkịta"
+        },
+        "transactions": {
+            "payment": "ụgwọ",
+            "pay": "ụgwọ",
+            "transactions": "ụgwọ",
+            "to": "zụmahịa",
+            "no_transactions": "na",
+            "latest_first": "Ọ nweghị azụmahịa",
+            "high_to_low": "Nke mbụ kacha ọhụrụ",
+            "reset": "Elu ruo obere",
+            "cancel": "Tọgharia"
+        },
+        "refferal": {
+            "refferal": "Ntụgharị uche",
+            "invite_friends": "Kpọọ ndị enyi. Nweta gbakwunyere n'efu",
+            "reward": "Nweta otu izu nke gbakwunyere n'efu maka enyi ọ bụla sonyere DocPlus",
+            "invite": "kpọọ"
+        },
+        "settings": {
+            "docplus": "DocPlus",
+            "continue_as": "Gaa n'ihu dị ka",
+            "select_name": "Họrọ Aha",
+            "language": "Asụsụ",
+            "continue": "Na-aga n'ihu"
+        },
+        "landing_page": {
+            "search_by_symptom": "Chọọ site na ọnọdụ, akara ngosi, ebe...",
+            "press_again_to_exit": "pịa ọzọ ka ịpụọ",
+            "search_for_doctor": "Chọọ dọkịta",
+            "all_doctors": "Ndị dọkịta niile",
+            "female_doctors": "Ndị dọkịta nwanyị",
+            "male_doctors": "ndị dọkịta nwoke",
+            "favorites": "Ndị ọkacha mmasị",
+            "sort_by_name": "Haziri aha",
+            "cancel": "Kagbuo",
+            "no_doctor_found": "Ọ nweghị dọkịta hụrụ. ",
+            "more": "pịa ọzọ ka ịpụọ0",
+            "now": "pịa ọzọ ka ịpụọ1",
+            "schedule": "pịa ọzọ ka ịpụọ2",
+            "exit_toast": "pịa ọzọ ka ịpụọ",
+            "welcome": "pịa ọzọ ka ịpụọ3",
+            "welcome_back": "pịa ọzọ ka ịpụọ4",
+            "choose_account_type": "pịa ọzọ ka ịpụọ5"
+        },
+        "signup": {
+            "first_name": "Aha mbụ",
+            "last_name": "Aha ikpeazụ",
+            "email": "Email",
+            "password": "Paswọdu",
+            "register_as_staff": "Debanye aha dị ka onye ọrụ?",
+            "already_have_accound": "Ịnwela akaụntụ? Nyefee",
+            "sign_in": "Hey Ebe ahụ!",
+            "sign_up": "Debanye aha dị ka dọkịta",
+            "sign_in_caps": "nọmba ekwentị",
+            "signup_with": "Due2385AE_9",
+            "next": "Aha ikpeazụ0",
+            "submit": "Aha ikpeazụ1",
+            "hey_there": "Aha ikpeazụ2",
+            "sign_up_as_doctor": "Aha ikpeazụ3",
+            "step1": "Step 1",
+            "phone_no": "Aha ikpeazụ4"
+        },
+        "login": {
+            "login_as_doctor": "Nbanye dị ka dọkịta",
+            "login_as_patient": "Nbanye dị ka onye ọrịa",
+            "email_or_phone": "Email/ekwentị No.",
+            "forgot_password": "Chefuru Paswọdu?",
+            "login": "Nbanye",
+            "login_with": "Nbanye na OTP!",
+            "login_with_otp": "Change Paswọdu!",
+            "change_pass": "ma ọ bụ",
+            "or": "LOGIN",
+            "login_caps": "Paswọdu] zipu OTP",
+            "pass": "Nbanye dị ka onye ọrịa0",
+            "send_otp": "Nbanye dị ka onye ọrịa1",
+            "dont_have_acc": "Nbanye dị ka onye ọrịa2",
+            "login_otp": "Nbanye dị ka onye ọrịa3",
+            "enter_your_code": "Nbanye dị ka onye ọrịa4"
+        }
+    }
+}

@@ -1,0 +1,1018 @@
+{
+  "doctor": {
+    "dashboard": {
+      "my_dashboard": "My Dashboard",
+      "revenue": "Revenue",
+      "approx_revenue": "Approx. revenue",
+      "upcoming_appointments": "Upcoming Appointments",
+      "no_appointments": "No Appointments",
+      "recent_patients": "Recent Patients",
+      "no_patient_found": "No patient found"
+    },
+    "V2": {
+      "bottom_compo": {
+        "title": {
+          "home": "Home",
+          "history": "History",
+          "appointment": "Appointment",
+          "chats": "Chats"
+        }
+      },
+      "sheet":{
+        "add_time_to_intake":"Add Time of intake",
+        "course_desc":"Course Description",
+        "Search_med":"Search Medicine"
+      },
+      "doctor_home": {
+        "common_health_consern": "Common Health Consern",
+        "search": "Concerns, Speciality or Doctors",
+        "health_consern": [
+          {
+            "name": "Bad Stomach",
+            "image": "img1"
+          },
+          {
+            "name": "Skin Rash",
+            "image": "img2"
+          },
+          {
+            "name": "Covid Care",
+            "image": "img3"
+          },
+          {
+            "name": "Cough & Cold",
+            "image": "img4"
+          }
+        ],
+        "top_doctors": "Top Doctors",
+        "speciality": "Speciality",
+        "All": "All",
+        "doctors_available_now": "Doctors Available Now",
+        "search_consern": {
+          "health_consern": "Health Consern",
+          "show_more": "Show more",
+          "show_less": "Show less"
+        },
+        "Doc_Card": {
+          "Button": {
+            "book_appointment": {
+              "Book": "Book",
+              "Appointment": "Appointment"
+            },
+            "Consult": "Consult Now"
+          },
+          "Years": "Years"
+        },
+        "Sidebar": {
+          "view_profile": "View Profile",
+          "medical_records": "Medical Records",
+          "your_family": "Your Family",
+          "get_100_by_gifting_care": "Get 100 by Gifting Care",
+          "about_docplus": "About Us",
+          "help_&_support": "Help and Support",
+          "privacy_policy": "Privacy Policy",
+          "setting": "Settings",
+          "sign_out": "Sign Out",
+          "sure": "Are you sure you want to Sign out?",
+          "cancel": " CANCEL",
+          "confirm": "CONFIRM"
+        },
+        "signOut_card": {
+          "unlimited": "Unlimited",
+          "consultations": "Consultations",
+          "Consult_with_experts": "Consult with Experts for your everyday health concern",
+          "button": "Get PLUS now!"
+        }
+      },
+      "privacy_policy": {
+        "header": "Privacy Policy",
+        "welcome": "WELCOME TO",
+        "docplus": "DocPlus",
+        "1st": "Docplus is committed to protecting your privacy online. This Privacy Policy endeavours to describe to you our practices regarding the  personal information we collect from users on our website, located at https://www.docplus.online (the “Site”), and the services offered through the Site. If you have any questions about our Privacy Policy, our collection practices, the processing of user information, or if you would like to report a security violation tous directly, please contact us at welcome@docplus.online",
+        "intro": "INTRODUCTION TO POLICY",
+        "2nd": "This online privacy policy (“Privacy Policy”) explains DocPlus’s privacy practices for the docplus.online (together with its pages and features, “Site”) and mobile software application (together with its pages and features, “App”). This Privacy Policy explains how we collect, use, disclose and manage information that you provide to us on the Site or App, as well as how we care for your privacy and protect such information. This Privacy Policy applies to you and any person helping you visit, access, register with or use the Site or creates an Account, or otherwise provides any personal, company, financial or other information to us.",
+        "3rd": "When you access or use the site or App, or otherwise provide any information to us, you agree to this privacy policy. If you do not agree with our policies and practices, your choice is not to use our services. By accessing or using our services, you agree to this privacy policy, or to any changes we may subsequently make to this privacy policy. When you create, register or log into an account through the Site or the App, you are automatically accepting and agreeing to the most-recent version of this Privacy Policy, as well as the Site’s and the App’s Terms and Conditions.",
+        "4th": "The Site may contain links to other sites. This Privacy Policy doesnot apply to information collected on such third-party sites and weare not responsible for the privacy practices of such third partiesor the content of their",
+        "age": "USERS UNDER THE AGE OF 18 YEARS",
+        "5th": "The Site is intended for use by adults. Neither the Site nor the App is designed or intended to attract, and is not directed to, children under eighteen (18) years of age. No one under age 18 may provide any information to or on the Website, and no one under the age of 21 may register on the Website. We do not knowingly collect personal information from users under 18.",
+        "6th": "If you are under 18, do not use or provide any information on the Website, or on or through any of its features, use any of the interactive or public comment features of the Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any user name. If you are under the age of 21, you may not register with the Website and thus may not make any purchases or access educational services through the Website. If we learn we have collected or received personal information from a child under 18 without verification of parental consent, we will will use reasonable efforts to refrain from further using such personal information or maintaining it in retrievable form. If you believe we might have any information from or about a child under the age of 18, please contact us at care@docplus.com",
+        "category_info": "CATEGORIES OF INFORMATION COLLECTED",
+        "category": {
+          "meta": "We may collect personal and non-personal information about you through the Site and/or the App.",
+          "metaDesc": "Information Collected through the Site and/or the App might inclu",
+          "Point": {
+            "1st": "Name (first, last and/or middle) and username, Home contact information (e.g., billing and shipping addresses, email address, telephone number, fax number), date of birth, items purchased, password, zip/postal code or country, gender, date of birth, electronic signature, hobbies, interests.",
+            "2nd": "Photographic or video image to the extent provided by you.",
+            "3rd": " Medical history, including the results of any questionnaires, surveys, information requests, interviews, or other documentary, text, video, or audio interactions related to the provision of health services.",
+            "4th": "Service provider name and the date, time and content of any messages sent from you to us",
+            "5th": "Internet connection, the equipment you use to access our Site and usage details",
+            "6th": "Credit/debit card and other billing information",
+            "7th": "Information regarding uses of the services",
+            "8th": "Other information that is automatically collected or that you choose to provide in any way, shape or form"
+          }
+        },
+
+        "category2": {
+          "meta2": "Other Information Collected From Your Mobile Device might include:",
+          "Point2": {
+            "1st": "Mobile device ID information",
+            "2nd": "Geolocation",
+            "3rd": " Name associated with your mobile device",
+            "4th": "Telephone number associated with your mobile device",
+            "5th": "With your express consent, your contacts and/or contact information (e.g., names, telephone numbers, addresses, email addresses, photos) stored on your mobile device; and/or",
+            "6th": "With your express consent, information about third-party software applications on your mobile device."
+          }
+        },
+        "collected": {
+          "meta": "USE OF INFORMATION COLLECTED",
+          "metaDesc": "We may use the information we collect from you in a variety of ways, such as, for example, to:",
+          "Point": {
+            "1st": "Facilitate your use of the Site, the App and/or their respective products and/or services",
+            "2nd": "Send you communications like, for example, administrative emails, answers to your questions and updates about the Site and/or the App",
+            "3rd": " Process your payments",
+            "4th": "Provide information and offers including information about third-party businesses, products and services by letter, email, text, telephone or other forms of communication",
+            "5th": "Improve the Site, the App content, features and/or services",
+            "6th": "Improve the products, services, marketing and promotional efforts of DocPLus",
+            "7th": "Create new products, services, marketing and promotions for DocPLus",
+            "8th": " Market the businesses, products and/or services of DocPLus",
+            "9th": "Help personalize user experiences with the Site, the App and/or their respective products and/or services",
+            "10th": "Help personalize user experiences with the Site, the App and/or their respective products and/or services",
+            "11th": "Analyze user behavior and activity on or through the Site and/or the App",
+            "12th": "Conduct research and measurement activities for purposes of product and service research and development, advertising claim substantiation, market research, and other activities related to the Site, the App and/or their respective products and/or services",
+            "13th": "Monitor the activities of you and others on or through the Site  and/or the App",
+            "14th": "Place and track orders for products on your behalf",
+            "15th": ""
+          }
+        },
+        "7th": "While we do not currently use third party services that display customized content and advertising provided by us, we may do so in the future. We may also use the information for statistical and/or marketing purposes, to improve our technologies, to provide information about our company and to deliver advertising and promotional information from our partners and third-party vendors. We may add your information to our databases to contact you through future e-mails, postal mailings and SMS text-messaging regarding site updates, upcoming events, new products and services and/or the status of orders placed online. We reserve the right to release information to law enforcement or other governmental officials as we, in our sole discretion, deem necessary to comply with applicable law.",
+        "web": {
+          "meta": "USE OF WEB TECHNOLOGY",
+          "metaDesc": "DocPlus might use various tracking, data aggregation and/or data analysis technologies, including, for example, the following:",
+          "Point": {
+            "1st": {
+              "heading": "COOKIES",
+              "desc": "A cookie is a small data file stored stored on the browser or device you use to view a website or message. They may help store user preferences and activity, and may allow a website to recognize a particular browser or device. There are several types of cookies, including, for example, browser cookies, session cookies, and persistent cookies. Cookies may record information you access on one page of a website to simplify subsequent interaction with that website, or to help streamline your transactions on related pages of that website. Most major browsers are set up so that they will initially accept cookies, but you might be able to adjust your browser’s or device’s preferences to issue you an alert when a cookie is downloaded, or to block, reject, disable, delete or manage the use of some or all cookies on your browser or device. A session ID cookie expires when a browser is closed. A persistent cookie remains on your hard drive for an extended period of time. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on the Site. If you reject cookies, you may still use the Site but your ability to use some areas of the Site may be limited."
+            },
+            "2nd": {
+              "heading": "FLASH COOKIES",
+              "desc": "Flash cookies are cookies written using Adobe Flash, and which may be permanently stored on your device. Like regular cookies, Flash cookies may help store user preferences and activity, and may allow a website to recognize a particular browser or device. Flash cookies are not managed by the same browser settings that are used for regular cookies."
+            },
+            "3rd": {
+              "heading": "WEB BEACONS",
+              "desc": "Web beacons are pieces of code embedded in a website or email to monitor your activity on the website or your opening of the email, and which can pass along information such as the IP address of the computer or device you use to view the website or open the email, the URL page on which the web beacon is located, the type of browser that was used to access the website, and previously set cookie values. Web beacons are sometimes used to collect advertising data such as counting page views, promotion views or advertising responses. Disabling your computer’s, device’s or browser’s cookies may prevent some web beacons from tracking or recording certain information about your activities."
+            },
+            "4th": {
+              "heading": "SCRIPTS",
+              "desc": "Web beacons are pieces of code embedded in a website or email to monitor your activity on the website or your opening of the email, and which can pass along information such as the IP address of the computer or device you use to view the website or open the email, the URL page on which the web beacon is located, the type of browser that was used to access the website, and previously set cookie values. Web beacons are sometimes used to collect advertising data such as counting page views, promotion views or advertising responses. Disabling your computer’s, device’s or browser’s cookies may prevent some web beacons from tracking or recording certain information about your activities."
+            },
+            "5th": {
+              "heading": "ANALYTIC TOOLS",
+              "desc": "Analytic tools are sometimes offered by third parties, and which track, measure and/or generate information about a website’s or program’s traffic, sales, audience and similar information, and which may be used for various reasons, such as, for example, statistical research, marketing research, and content ratings research, and conversion tracking. Examples of the analytic tools and services which DocPlus might use include Google Analytics. DocPlus may also use other third-party analytic tools and services. We use this information to analyze trends, to administer the Site, to track the movements of users around the Site and to gather demographic information about our user base as a whole."
+            }
+          }
+        },
+        "security": {
+          "heading": "SECURITY",
+          "desc": " We implement security measures to help protect the personal information we collect by using industry recognized security safeguards such as site monitoring, secured networks and servers, firewalls and encryption. When we ask for sensitive information, we protect it through the use of encryption during transmission, by using secure socket layer (SSL) technology. Regardless of the foregoing, please observe that “perfect” or “100%” security does not exist on the Internet. Therefore, your access and use of the Site and/or the App, and your opening of any communications sent through or as a function of the Site and/or the App, are done at your own risk. You are responsible for protecting against unauthorized access to your password and to your computer/mobile device. We ask you not to share your password with anyone.",
+          "metaDesc": "To help maintain the security of your personal information, DocPlus asks that you please notify it immediately of any unauthorized visit, access or use of the Site and/or the App, or the loss or unauthorized use of your user access information for the Site and/or the App (e.g., username or password)."
+        },
+        "communication": {
+          "heading": "COMMUNICATIONS",
+          "desc": "Based upon the personally identifiable information that you provide to us, we may send you a welcome e-mail. We will also communicate with you in response to your inquiries, to provide any services you request, to provide newsletters or other updates that you request and to manage your Account. In addition, when you register an Account with us, you may choose to consent to our contacting you by e-mail and to receiving our e-mail subscriptions, e-mails and advertorial e-mails from us. If, at any time, you no longer want us to contact you by e-mail and/or receive our e-mail subscriptions, e-mails and advertorial e-mails, you may opt out of these functions by changing the preferences in your Account. You can contact customer service by e-mail at the contact information listed below to assist you with any such changes to your Account."
+        },
+        "thirdParty": {
+          "heading": "THIRD PARTY AD SERVER NETWORK",
+          "desc": "Our Site may use third parties such as network advertisers to serve advertisements on our Site and may use traffic measurement services to analyze traffic on our Site. Our Site’s third party ad network providers, the advertisers, the sponsors and/or traffic measurement services may themselves set and access their own cookies and other technologies on your computer and track certain behavioral information regarding users of your computer via an IP address or other device identifier. Third party cookies, web beacons and other third party technologies are governed by each third party’s specific privacy policy, not this one."
+        },
+        "OPT": {
+          "heading": "TO OPT OUT OF THIRD-PARTY TRACKING ON OUR SITE USE THE FOLLOWING TOOLS",
+          "desc": "You may opt out of the Ad Tech Network by clicking http: //www.youronlinechoices.com/opt-out-interface.",
+          "1st": "If you would like to opt out of having interest-based information collected during your visits to our Site or other sites, both the National Advertising Initiative (the “NAI”) and the Digital Advertising Alliance (the “DAA”) offer opt out tools to assist you in managing your choices. Click http: //www.networkadvertising.org/choices/ to visit the NAI opt out page and click http: //www.aboutads.info/choices/ for the DAA opt out page.",
+          "2nd": "You may wish to visit http: //www.networkadvertising.org/understanding-online-advertising/ to learn more about interest-based advertising and your choices regarding having this information used by third parties and your“opt out” choices. Opting out through the DAA or the NAI only means that those DAA or NAI members will no longer be able to deliver targeted content and/or ads to you, which will affect our Site as well as other unaffiliated sites, but does not mean you will no longer receive any targeted content and/or ads. Also, if your browsers are configured to reject cookies when you visit these opt out pages, or you subsequently erase your cookies, use a different computer or change web browsers, your opt out choices may not, or may no longer, be effective."
+        },
+        "opting_out": {
+          "heading": "OPTING OUT",
+          "desc": "If you want to be removed from our marketing list and do not want us to send you e-mail, postal mail or other messages about our products and services, you can opt out. To do so, please send an e-mail to care@docplus.com, with the word “REMOVE” in the subject line. http: //www.youronlinechoices.com/opt-out-interface."
+        },
+        "california": {
+          "heading": "YOUR CALIFORNIA PRIVACY RIGHTS",
+          "desc": "California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of such residents’ personal information to third parties for such third parties’ direct marketing purposes. To make such a request, please e-mail us at care@docplus.com"
+        },
+        "privacy_update": {
+          "heading": "PRIVACY POLICY UPDATES",
+          "desc": " We reserve the right to change this Privacy Policy at any time, so please review it on a regular basis. Any changes made to this Privacy Policy will be posted here. The date stamp at the top of the page represents the last day this Privacy Policy was updated. If you have questions about this Privacy Policy, you can contact us at care@docplus.com. By maintaining an Account with us, or by using or accessing any services provided by us or the Site, you will be deemed to have agreed to and accepted this Privacy Policy."
+        },
+        "manage": {
+          "heading": "MANAGE ACCURATE INFORMATION",
+          "1st": "If your personally identifiable information changes, or if you no longer choose to use our services or the Site, you can contact customer service by e-mail to assist you with changes to your Account. To the extent your Account closes or becomes inactive, we will continue to protect your information as described in this Privacy Policy. You may request at any time that DocPlus provide you with an opportunity to review and change your personal information collected through the Site or the App or to no longer use your personal information to provide you with any products or services.",
+          "2nd": "Please submit any such request (“Request Concerning Personal Information”) By email: care@docplus.com, with a subject line of “Your Personal Information.” For each Request Concerning Personal Information, please state “Your Personal Information” in the email or letter subject line, and clearly state the the nature of your request and your name, street address, city, state, zip code and email address. DocPlus is not responsible for any Request Concerning Personal Information that is incomplete, incorrectly labeled, or incorrectly sent.",
+          "3rd": "You are solely responsible for the accuracy and content of your personal information, and for keeping your personal information current and correct.",
+          "4th": "Further, DocPlus does not respond to “do not track” (DNT) signals.",
+          "5th": "Finally, as explained further above, DocPlus does not authorize third parties to collect your personal information when you usethe Site or the App, except as expressly stated in this Privacy Policy. To the fullest extent permitted by law, DocPlus is not responsible for, and you hereby release DocPlus from any and all liability which may arise from, such third parties’ unauthorized collection of your personal information"
+        },
+        "policy_update": {
+          "heading": "PRIVACY POLICY UPDATES",
+          "desc": "If any term or condition of this Privacy Policy is deemed invalid or unenforceable by a court of law with binding authority, then the remaining Terms and Conditions shall not be affected, and the court shall reform the invalidated or unenforceable term or condition to the maximum extent permitted under the law and consistent with the intent of this Privacy Policy."
+        },
+        "international_users": {
+          "heading": "INTERNATIONAL USERS",
+          "desc": " DocPlus is based in the United States, with our servers and offices headquartered in the United States. Please be aware that information you provide to us or that we obtain as a result of your use of the Site, an Account, or any services provided by us may be processed and transferred to, and be subject to the laws of, the United States. The privacy and data protection laws in the United States may not be equivalent to similar laws in your country of residence. By using the Site or an Account, or by providing us with your information, you consent to the collection, transfer, storage and processing of information to and within the Untied States. If our cookies or other software detects IP addresses located in a country outside the United States, we reserve the right to deny access to any and all of our services."
+        },
+        "contact_us": {
+          "heading": " CONTACT US",
+          "desc": "If you have any questions or suggestions about this Privacy Policy, the Site or the App please contact us by e-mail:"
+        }
+      },
+      "AboutUs": {
+        "header": "About Docplus",
+        "know_more_about_us": "Know more about us!!",
+        "who_we_are": {
+          "heading": "Who we are?",
+          "1st_para": "We are India’s largest tele-medicine healthcare platform. We, at DocPlus, bring premium healthcare available at your fingertips!",
+          "2nd_para": "With DocPlus at your service, there is no need to stand in line for an appointment with your doctor.",
+          "3rd_para": "Interact digitally with the doctor of your choice from the comfort of your home through our state-of-the-art Teleconsultation App!"
+        },
+        "founders_message":{
+          "heading": "Founder's message",
+          "para": "The world is becoming more and more dynamic as we speak, this can be held exclusively to technology.Technology has grown by leaps and bounds over the years. The healthcare sector has also been a contributing factor for this."
+        },
+        "how_we_work":{
+          "heading": "How we work?",
+          "list_one": "Opportune time",
+          "list_two": "Flexible timing with 24/7",
+          "list_three": "virtual consultation facility",
+          "list_four": "Affordability",
+          "para_one" : "Our mission is to provide Anyone, Anytime, Anywhere Affordable Healthcare!",
+          "para_two" : "Stay away from maintaining messy medical records, prescriptions and follow-up appointments!",
+          "para_three" : "All your medical records will be compiled by us and sent to you digitally. Your prescriptions will be prepared electronically."
+        }
+      },
+      "HelpAndSupport":
+      {
+        "heading": "Get Help"
+      },
+      "DoctorProfileScreen": {
+        "header": "Doctor’s Profile",
+        "Card": {
+          "Titile": {
+            "patients": "Patients",
+            "rating": "Rating",
+            "experience": "Experience"
+          }
+        },
+        "info_card": {
+          "Title": {
+            "overview": "OverView",
+            "availibility": "Availibility",
+            "fees": "Fees"
+          }
+        },
+        "bottom_card": {
+          "appointment_time": "Appointment time",
+          "Next_available_slot": "Next Available Slot",
+          "book": "Book"
+        },
+        "availibility": {
+          "title": "Available Time",
+          "doctor_is_not_avail": "Doctors is not available for selected Dates",
+          "avail_time": {
+            "morning": "Morning",
+            "afternoon": "Afternoon",
+            "evening": "Evening",
+            "night": "Night"
+          }
+        }
+      },
+      "appointment_detail": {
+        "title": "Appointments Detail",
+        "your_detail": "Your details",
+        "switch_profile": "Switch Profile",
+        "details": {
+          "height": "Height",
+          "bp": "BP",
+          "temp": "Temperature",
+          "gulucose": "Gulucose",
+          "heart_rate": "Heart Rate",
+          "weight": "Weight"
+        },
+        "concern": "Concern",
+        "plusCard": {
+          "get": "Get this consultation for ₹0",
+          "with": " with Docplus",
+          "pro": "PRO Membership"
+        },
+        "modal": {
+          "title": "From symptoms below, please pick what is troubling you?",
+          "search": "Type your concern here",
+          "common": "Common Health Concerns"
+        },
+        "question": {
+          "q1": "What is the reason for the consultation?",
+          "q2": "From how long you have been suffering from this?",
+          "q3": "How often this symptoms occurs?",
+          "q4": "How severe are your symptoms?",
+          "q5": "Describe your problem",
+          "placeholder": "eg. sometimes headache is more severe at night",
+          "optional": "Optional",
+          "least": "Low",
+          "mild": "Mild",
+          "very": "High"
+        },
+        "question_card": {
+          "q1": "Since when",
+          "q2": " How often",
+          "q3": "Severity",
+          "q4": "Details"
+        }
+      },
+      "confirm_appointment": {
+        "message": "Your Appointment has been booked!",
+        "button": "View Detail"
+      },
+      "booking_detail": {
+        "appointment_confirmed": " Appointments Details (Confirmed)",
+        "detail": {
+          "title": " Patient Details",
+          "patient": "Patient",
+          "condition": "Condition"
+        },
+        "cancel_button": "Cancle Appointment",
+        "bottom_sheet": {
+          "title": {
+            "1st": "Would you like to",
+            "2nd": " Reschedule/Cancle",
+            "3rd": "the appointment"
+          }
+        },
+        "button": {
+          "reshedule": "Reschedule",
+          "cancel": "Cancel"
+        }
+      },
+      "your_family": {
+        "who_using": "Who's using Docplus?",
+        "withDoc": "With Docplus profiles you can consult individually and have seperate medical records. You can create profiles for your loved ones.",
+        "add": "Add",
+        "member": "Member",
+        "note": "Note: You can have maximum 4 members",
+        "noMember": "No member found",
+        "modal": {
+          "first_name": "First name",
+          "last_name": "Last name",
+          "relation": "Relation",
+          "email": "Email",
+          "gender": {
+            "male": "Male",
+            "female": "Female",
+            "other": "Other"
+          },
+          "contact": "Contact",
+          "button": "Add Member",
+          "button2": "UPDATE"
+        }
+      },
+      "meidcalHistory": {
+        "search":"Search",
+        "by_name":"by name",
+        "tabs": {
+          "vitals": "Vitals",
+          "Meds": "Medicines",
+          "reports": "Reports",
+          "surgeries": "Surgeries",
+          "allergies": "Allergies",
+          "refer": "Refer",
+          "settings": "Settings"
+        },
+        "Meds": {
+          "placeholder": "Search by name",
+          "no_med": "No medicine added",
+          "button": "Add Medications"
+        }
+      },
+      "Doctor_screen": {
+        "Home": {
+          "welcome_back": "Welcome Back!",
+          "Hi": "Hi",
+          "Next_appointment_card": {
+            "Next_Appointment": "Next Appointment",
+            "Name": " Name",
+            "Concern": "Concern",
+            "View_Details": "View Details"
+          },
+          "revenue_card": {
+            "earning": "Earning",
+            "Approximate_revenue_for": "Approximate Revenue for",
+            "button": "More Details"
+          },
+          "waiting_room_card": {
+            "Waiting_room": "Waiting Room",
+            "Patients_waiting_to_be": "Patients Waiting to be",
+            "button": "See Patients"
+          },
+          "upcomming_appointment_card": {
+            "next_appointments": "Next Appointments",
+            "No_next_appointments": " No next appointments",
+            "button": "View All"
+          },
+          "recent_patient_card": {
+            "recent_patients": " Recent Patients",
+            "No_next_appointments": " No next appointments"
+          },
+          "new_user": {
+            "Welcome!": " Welcome!",
+            "Thank": "Thank you for joining us to make",
+            "healthcare_more": "healthcare more accessible",
+            "Explore_docplus": "Explore Docplus"
+          }
+        }
+      },
+      "verifyCategory": {
+        "title": "Are you a Doctor?",
+        "yes": "Yes",
+        "no": "No"
+      },
+      "loginScreenCompo": {
+        "skip": "Skip",
+        "welcome_to": "Welcome to",
+        "docplus": "DocPlus",
+        "access_quality": "Your access to quality",
+        "make_quality": "Help us make quality",
+        "moreAcess": "healthcare more accessible",
+        "yourComfort": "healthcare at your comfort",
+        "convi": "and convenience",
+        "login_signup": "Sign in",
+        "button": "Continue",
+        "or": "OR",
+        "continue_with": "Continue with",
+        "valid": "Please Enter Valid Number",
+        "number": "Your number",
+        "verified": "is Verified",
+        "privacy_mess": "By continuing, you agree to Docplus’",
+        "condi": "Terms and conditions",
+        "And": "And",
+        "Privacy_Policy": "Privacy Policy"
+      },
+      "otp_conf": {
+        "number": "Your number",
+        "verified": "is Verified",
+        "header": "Verification",
+        "enter": "Enter your code",
+        "type": "Please type the code we sent to",
+        "resendOtp": "Resend OTP",
+        "sent": "Code sent successfully!",
+        "button": "Continue",
+        "in": "in",
+        "resend": "Resend Code",
+        "second": "seconds",
+        "error": "Error in resending!"
+      }
+    },
+    "appointments": {
+      "my_appointments": "My Appointments",
+      "appointments_details": "Appointments details",
+      "search_by_name": "Search by name",
+      "search_by_name_disease": "disease or location",
+      "search_for_an_appointment": "search for an appointment",
+      "upcoming": "Upcoming",
+      "history": "History",
+      "no_appointments": "No Appointments",
+      "to": "to",
+      "confirm": "CONFIRM",
+      "cancel": "CANCEL",
+      "pay_confirm": "Do you wish to pay and confirm the appointment?"
+    },
+    "patients_list": {
+      "patients_list": "Recent Patients",
+      "no_patient_found": "No patient found",
+      "last_visit": "Last Visit",
+      "add_new": "Add New",
+      "add_patient": "Add Patient"
+    },
+    "patient_details": {
+      "patient_details": "Patient Details",
+      "reason_for_visit": "Reason for visit",
+      "appointments": "Appointments",
+      "medical_history": "Medical History"
+    },
+    "waiting": {
+      "online": "online",
+      "waiting_room": "Waiting Room",
+      "offlie": "offline",
+      "to_pay": "TO PAY",
+      "accept": "Accept",
+      "cancel": "Cancel",
+      "reason_visit": "Reason for visit",
+      "last_visit": "Last Visit",
+      "no_of_patient": "No. of patients in waiting room",
+      "next_in_line": "Next in line",
+      "no_app_found": "No appointment found",
+      "appointment_with": "appointment with"
+    },
+    "template": {
+      "no_temp_added": "No Template Added",
+      "add_temp": "Add Template",
+      "med": "Medicine",
+      "rep": "Reports",
+      "con": "Condition",
+      "rep_name": "Report Name",
+      "rep_type": "Report Type",
+      "update": "UPDATE"
+    },
+    "medical_history": {
+      "weight": "Weight",
+      "recorded_on": "Recorded on",
+      "height": "Height",
+      "blood_pressure": "Blood Pressure",
+      "heart_rate": "Heart Rate",
+      "temperature": "Temperature",
+      "glucose": "Glucose",
+      "enter_your_bp": "Enter your Blood Pressure",
+      "search_symptoms": "Search your symptoms",
+      "to": "to",
+      "no_medicine_added": "No medicine added",
+      "add_medications": "Add Medications",
+      "add_reports": "Add Reports",
+      "no_record_added": "No records added",
+      "added_by": "Added By",
+      "download_report": "View Report",
+      "upload_report": "Upload Report",
+      "upload_report_file": "Upload Report file",
+      "no_surgeries_found": "No surguries found",
+      "add_surgeries": "Add Suguries",
+      "date": "Date",
+      "calendar": "calendar",
+      "ot": "OT",
+      "surgeon": "Surgeon",
+      "status": "Status",
+      "no_allergies_found": "No allergies found",
+      "add_allergies": "Add Allergies",
+      "severity": "Severity",
+      "reaction": "Reaction",
+      "add_height": "Add Height",
+      "add_your_height": "Add your Height",
+      "add_weight": "Add Weight",
+      "fat_mass": "Fat Mass",
+      "record_temperature": "Record Temperature",
+      "record_your_temp": "Record your Temprature",
+      "centigrade": "Centigrade",
+      "fahrenheit": "Fahrenheit",
+      "pulse": "Pulse",
+      "add_blood_pressure": "Add Blood Pressure",
+      "systolic": "Systolic",
+      "diastolic": "Diastolic",
+      "add_surgery_details": "Add Surgery Details",
+      "add_heart_rate": "Add Heart Rate",
+      "add_pills": "Add Pills",
+      "time": "Time",
+      "allergy_name_type": "Allergy Name/Type",
+      "course_description": "Course Description",
+      "search_medicine": "Search Medicine",
+      "name_of_the_pill": "Name of the pill",
+      "amount_to_be_taken": "Amount to be taken",
+      "course_duration": "Course Duration",
+      "cancel": "CANCEL",
+      "add_a_record": "Add a Record"
+    },
+    "AddAppoitments": {},
+    "AddQuestionnaire": {
+      "AddCategory": {
+        "categories": "Categories",
+        "add_category": "Add Category",
+        "category_name": "Category Name",
+        "title": "Title",
+        "name_of_category": "Name of the Category",
+        "question_type": "Question Type",
+        "type_your_question": "Type your question",
+        "submit": "Submit",
+        "any_sub_question": "Any Sub Questions?",
+        "no_questions": "No Question, add one now!",
+        "add_option": "Add Option",
+        "update": "Update",
+        "delete": "Delete",
+        "add_question": "Add Question",
+        "reset": "Reset",
+        "next": "Next",
+        "no_question_asked": "No Questions has been added by the doctor.",
+        "you_can_skip": "You can Skip Question"
+      },
+      "Categories": {
+        "categories": "Categories",
+        "vitals": "VITALS",
+        "each_criteria_can_be_edited_and_modified": "Each criteria can be edited and modified.",
+        "view": "View",
+        "add_category": "ADD CATEGORY"
+      }
+    },
+    "Chats": {
+      "search": "search",
+      "convers": "Conversations",
+      "search_chat": "Search Chat...",
+      "type_a_message": "Type a message...",
+      "chat": "Chat",
+      "add_pres": "Add Prescription",
+      "refer": "Refer"
+    },
+    "DoctorDetail": {},
+    "FindDoctor": {
+      "now": "NOW",
+      "search_your_patient": "seach your patient",
+      "available_doctors": "Available Doctors"
+    },
+    "home": {
+      "appointments": "Appointments",
+      "hello": "Hello",
+      "you_have": "You have"
+    },
+    "Languages": {
+      "region_and_lang": "Region and Language",
+      "region": "Region",
+      "language": "Language"
+    },
+    "PatientDetails": {
+      "patient_details": "Patient Details",
+      "medical_history": "Medical History",
+      "reports": "Reports",
+      "appointments": "Appointments",
+      "notes": "Notes",
+      "save_changes": "SAVE CHANGES"
+    },
+    "Patients": {
+      "patients": "Patients",
+      "last_visit": "Last Visit"
+    },
+    "Profile": {
+      "pers_info": "Personal Information",
+      "upload": "Upload",
+      "email": "Email",
+      "fees": "Fees",
+      "phone": "Phone",
+      "about_you": "About you",
+      "registration_no": "Registration Number",
+      "registration_council": "Registration Council",
+      "registration_year": "Registration Year",
+      "url": "Url",
+      "year": "Year",
+      "yes": "Yes",
+      "no": "No",
+      "upload_sign": "Upload Signature",
+      "appointments": "Appointments",
+      "questionaire": "Questionaire",
+      "logout": "Logout"
+    },
+    "Referrals": {
+      "refer_a_friend": "Refer a Friend",
+      "rewards": "Rewards",
+      "refer_friends.": "Refer friends.",
+      "unlock_rewards": "Unlock rewards"
+    },
+    "Settings": {
+      "settings": "Settings",
+      "notification": "Notification",
+      "sms_notification": "SMS Notification",
+      "mobile_notification": "Mobile Notification",
+      "email_notification": "Email Notification",
+      "booking_details": "Booking details",
+      "account": "Account",
+      "old_pass": "Old Password",
+      "new_pass": "New Password",
+      "con_pass": "Confirm Password",
+      "on": "ON",
+      "off": "OFF",
+      "edit_your_profile": "Edit your profile",
+      "signout": "Signout",
+      "doctor_on_demand": "Doctor on demand",
+      "block": "Block",
+      "logout": "Logout",
+      "update_profile_picture": "Update Profile Picture",
+      "gallery": "Gallery",
+      "camera": "Camera",
+      "remove_photo": "Remove Photo",
+      "update_profile_details": "Update Profile Details",
+      "submit": "SUBMIT",
+      "my_appointments": "My Appointments",
+      "questionnaire": "Questionnaire",
+      "clinics": "Clinics",
+      "template": "Template",
+      "my_staff": "My Staff",
+      "availability": "Availability",
+      "payment": "Payment",
+      "my_teams": "My Teams",
+      "profile": "Profile",
+      "skin": "Skin",
+      "privacy_policy": "Privacy Policy",
+      "phone": "mobile number",
+      "email": "email"
+    },
+    "clinics": {
+      "no_clinics_found": "No Clinic Found"
+    },
+    "Skins": {
+      "primary": "Primary",
+      "dark": "Dark",
+      "mini": "Mini"
+    },
+    "profile": {
+      "profile": "Profile",
+      "name": "Name",
+      "age": "Age",
+      "gender": "Gender",
+      "bio": "Bio",
+      "education_qualifications": "Education Qualifications",
+      "registration_details": "Registration Details",
+      "payment": "Payment",
+      "view_policy": "View Policy",
+      "country_wise_fee": "Add country wise consultation fee",
+      "practice": "Practice",
+      "follow_ups": "Follow Ups",
+      "strict": "Strict",
+      "moderate": "Moderate",
+      "flexible": "Flexible"
+    },
+    "view_policy": {
+      "cancellation_policy": "Cancellation Policy",
+      "flexible_para": "Full refund if cancellation is within 6 hours of booking For a full refund of Consultation fees,cancellation must be made 6 hours prior to Appointment time.If the patient cancels less than 6 hours in advance 60% of the Consultation fees [as amount or % amount] will be refunded.",
+      "moderate_para": "Full refund if cancellation is within 24 hours of booking(1 days) For a full refund of Consultation fees, cancellation must be made 1 days prior to Appointment time. For example, if Appointment  is on Friday, cancel by the Tuesday before Appointment time. If the patient cancels less than a days in advance 60% of the Consultation fees [as amount or % amount] will be refunded.",
+      "strict_para": "Full refund if cancellation is within 72 hours of booking(3 days) For a 50% refund of Consultation fees, cancellation must be made 5 full days prior to Appointment time, otherwise no refund. If the patient cancels less than 5 days in advance 60% of the Consultation fees [as amount or % amount]  of the Consultation fees will be refunded."
+    },
+    "my_staff": {
+      "_inviteemail": "Invite via Email",
+      "invite_doctor": "Invite Doctors",
+      "permissions": "Permissions",
+      "my_appointments": "My Appointments",
+      "questionnaire": "Questionnaire",
+      "clinics": "Clinics",
+      "availiblity": "Availiblity",
+      "my_staff": "My Staff",
+      "payment": "Payment",
+      "my_teams": "My Teams",
+      "skin": "Skin",
+      "email": "Email",
+      "phone_number": "Phone Number",
+      "add_doctor": "Add Doctor",
+      "doctor_name": "Doctor's name",
+      "doctor_not_available": "Concerned Doctor not available?",
+      "invite_to_join_docplus": "Invite them to join DocPlus"
+    },
+    "my_teams": {
+      "my_teams": "My Teams",
+      "teams": "Teams",
+      "team_name": "Team Name",
+      "requests": "Requests",
+      "no_pending_requests": "No pending requests",
+      "no_teams_found": "No teams found",
+      "add_team_details": "Add Team Details",
+      "update": "UPDATE"
+    },
+    "payment": {
+      "payment": "Payment",
+      "payment_option": "Select payment option",
+      "add_bank_details": "Add bank details",
+      "payment_after_consult": "Payment after consultation",
+      "payment_before_consult": "Payment before consultation",
+      "danate_time": "Donate Time"
+    },
+    "availablity": {
+      "availability": "Availability",
+      "tele_consult": "Tele-consult",
+      "in_person": "In-person",
+      "appointment_duration": "Appointment Duration",
+      "choose_any_day": "Choose any day to the week to repeat this availabilty",
+      "working_hours": "Working Hours",
+      "start_time": "Start Time",
+      "end_time": "End TIme",
+      "break_hours": "Break Hours",
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesdayy": "Wednesday",
+      "thursday": "Thursday",
+      "friday": "Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday"
+    }
+  },
+  "patient": {
+    "appointmentForm": {},
+    "appointments": {
+      "appointment": "Appointment",
+      "add_notes": "Add notes for the doctor",
+      "contact_number": "Contact Number",
+      "reason_for_visit": "Reason for visit"
+    },
+    "consultations": {
+      "consult": "Consult"
+    },
+    "doc_profile": {
+      "doc_plus": "DocPlus",
+      "permission_msg": "This App needs access to your location ",
+      "doctor_profile": "Doctor's Profile",
+      "reviews": "Reviews",
+      "review": "Review",
+      "patients": "Patients",
+      "patient": "Patient",
+      "experience": "Experience",
+      "about": "About",
+      "fee": "Fee",
+      "feedback": "Feedback",
+      "book_appointment": "BOOK APPOINTMENT",
+      "consultation_fees": "consultation fees",
+      "exp_question": "How was your experience?",
+      "add_feedback": "Add Feedback",
+      "feedbacks": "Feedbacks",
+      "tell_us_liked": "Tell us what you liked...",
+      "book": "Book",
+      "doc_not_avail": "Doctor is not available for selected Dates"
+    },
+    "appointment_summary": {
+      "appointment_summary": "Appointment Summary",
+      "patient_details": "Patient Details",
+      "consultation_fee": "Consultation Fee",
+      "notes": "Notes",
+      "answers": "Answers",
+      "reason": "Reason",
+      "add_notes": "Add notes for the doctor"
+    },
+    "familyMember": {
+      "family_member": "Family Member",
+      "no_member_found": "No member found",
+      "add_member": "Add Member",
+      "first_name": "First name",
+      "last_name": "Last name",
+      "email": "Email",
+      "phone_number": "Phone Number",
+      "gender": "Gender",
+      "male": "Male",
+      "female": "Female",
+      "transgender": "Transgender",
+      "date_of_birth": "Date Of Birth",
+      "contact_number": "Contact Number",
+      "relationship": "Relationship",
+      "cancel": "Cancel",
+      "add": "Add"
+    },
+    "home": {
+      "find_a_doctor": "Find a Doctor",
+      "now": "NOW",
+      "schedule": "SCHEDULE",
+      "search_your_patient": "search your patient",
+      "available_doctors": "Available Doctors",
+      "empty": "Empty",
+      "empty_superDocs": "Empty superDocs"
+    },
+    "medicalrecords": {
+      "hello": "Hello",
+      "medical_history": "Medical History",
+      "add_a_new_medication": "Add a new medication",
+      "save": "Save",
+      "search_medicine": "Search Medicine",
+      "dose_appearance": "Dose Appearance",
+      "colors": "Colors",
+      "take_as_per_needed": "Take as per needed",
+      "schedule": "Schedule",
+      "start_date": "Start Date",
+      "select_start_date": "Select Start Date",
+      "end_date": "End Date",
+      "reminders_&_Dosage": "Reminders & Dosage"
+    },
+    "more": {
+      "help": {},
+      "settings": {}
+    },
+    "my_profile": {
+      "my_profile": "My Profile",
+      "medical_history": "Medical History",
+      "my_family": "My Family",
+      "my_healthcare_team": "My Healthcare Team",
+      "my_appointments": "My Appointments",
+      "my_transactions": "My Transactions",
+      "refferal": "Refferal",
+      "settings": "Settings",
+      "logout": "Logout",
+      "update_profile_picture": "Update Profile Picture",
+      "gallery": "Gallery",
+      "camera": "Camera",
+      "remove_photo": "Remove Photo",
+      "update_profile_details": "Update Profile Details",
+      "submit": "SUBMIT"
+    },
+    "medical_history": {
+      "medical_history": "Medical History",
+      "recorded_on": "Recorded on",
+      "modified_by": "Modified By",
+      "systolic": "Systolic",
+      "diastolic": "Diastolic",
+      "blood_sugar": "BloodSugar",
+      "name_of_report": "Name of Report",
+      "type_of_test": "Type of Test",
+      "surgery_type": "Surgery Type",
+      "surgion_name": "Surgion's Name",
+      "ot_or": "OT/OR",
+      "select_date": "Select Date"
+    },
+    "medical_logs": {
+      "medical_logs": "Medical Logs",
+      "no_log_found": "No Medical Logs found"
+    },
+    "my_family": {
+      "my_family": "My Family",
+      "no_family_member_added": "No Family member found",
+      "add_member": "Add Member",
+      "first_name": "First name",
+      "last_name": "Last name",
+      "relationship": "Relationship",
+      "email": "Email",
+      "phone_number": "Phone Number",
+      "contact": "Contact Number",
+      "select_gender": "Select Gender",
+      "male": "Male",
+      "female": "Female",
+      "transgender": "Transgender",
+      "medical_history": "Medical History",
+      "date_of_birth": "Date Of Birth",
+      "cancel": "Cancel",
+      "add": "Add",
+      "update": "UPDATE"
+    },
+    "my_doctors": {
+      "my_doctors": "My Doctors",
+      "no_doctors": "No Doctors"
+    },
+    "transactions": {
+      "payment": "Payment",
+      "pay": "Pay",
+      "transactions": "Transactions",
+      "to": "to",
+      "no_transactions": "No transactions",
+      "latest_first": "Latest first",
+      "high_to_low": "High to low",
+      "reset": "Reset",
+      "cancel": "Cancel"
+    },
+    "refferal": {
+      "refferal": "Refferal",
+      "invite_friends": "Invite Friends. Get free plus",
+      "reward": "Get one week of free plus for every friend who joins DocPlus",
+      "invite": "Invite"
+    },
+    "settings": {
+      "docplus": "DocPlus",
+      "continue_as": "Continue as",
+      "select_name": "Select Name",
+      "language": "Language",
+      "continue": "CONTINUE"
+    },
+    "landing_page": {
+      "search_by_symptom": "Search by conditions, symptoms, location...",
+      "press_again_to_exit": "Press again to Exit",
+      "search_for_doctor": "Search for doctor",
+      "all_doctors": "All Doctors",
+      "female_doctors": "Female Doctors",
+      "male_doctors": "Male Doctors",
+      "favorites": "Favorites",
+      "sort_by_name": "Sort by name",
+      "cancel": "Cancel",
+      "no_doctor_found": "No doctor found",
+      "more": "More",
+      "now": "Now",
+      "schedule": "Schedule",
+      "exit_toast": "Press again to Exit",
+      "welcome": "Welcome",
+      "welcome_back": "Welcome Back!",
+      "choose_account_type": "Choose your account type"
+    },
+    "signup": {
+      "first_name": "First name",
+      "last_name": "Last name",
+      "email": "Email",
+      "password": "Password",
+      "register_as_staff": "Register as a staff member?",
+      "already_have_accound": "Already have an account?",
+      "sign_in": "Sign In",
+      "sign_up": "Sign Up",
+      "sign_in_caps": "SIGN IN",
+      "signup_with": "Sign up with",
+      "next": "Next",
+      "submit": "SUBMIT",
+      "hey_there": "Hey There!",
+      "sign_up_as_doctor": "Signup as doctor",
+      "step1": "Step 1",
+      "phone_no": "Phone Number"
+    },
+    "login": {
+      "login_as_doctor": "Login as doctor",
+      "login_as_patient": "Login as patient",
+      "email_or_phone": "Email/Phone No.",
+      "forgot_password": "Forgot Password?",
+      "login": "Login",
+      "login_with": "Login with",
+      "login_with_otp": "Login With OTP!",
+      "change_pass": "Change Password!",
+      "or": "or",
+      "login_caps": "LOGIN",
+      "pass": "Password",
+      "send_otp": "Send OTP",
+      "dont_have_acc": "Don't have an account?",
+      "login_otp": "Login with OTP instead of Password?",
+      "enter_your_code": "Enter your code"
+    }
+  }
+}

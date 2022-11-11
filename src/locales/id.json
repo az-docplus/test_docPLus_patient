@@ -1,0 +1,988 @@
+{
+    "doctor": {
+        "dashboard": {
+            "my_dashboard": "Dasbor saya",
+            "revenue": "Pendapatan",
+            "approx_revenue": "kira-kira pendapatan",
+            "upcoming_appointments": "Janji Mendatang",
+            "no_appointments": "Tidak Ada Janji Temu",
+            "recent_patients": "Pasien Terbaru",
+            "no_patient_found": "Tidak ada pasien yang ditemukan"
+        },
+        "V2": {
+            "bottom_compo": {
+                "title": {
+                    "home": "Beranda",
+                    "history": "Riwayat",
+                    "appointment": "Janji Temu",
+                    "chats": "Obrolan"
+                }
+            },
+            "sheet": {
+                "add_time_to_intake": "Tambahkan Waktu Asupan",
+                "course_desc": "Deskripsi Kursus",
+                "Search_med": "Cari Obat"
+            },
+            "doctor_home": {
+                "common_health_consern": "Kekhawatiran Kesehatan Umum",
+                "search": "Kekhawatiran, Spesialisasi atau Dokter",
+                "health_consern": [
+                    {
+                        "name": "Perut Buruk",
+                        "image": "img1"
+                    },
+                    {
+                        "name": "Ruam kulit",
+                        "image": "img2"
+                    },
+                    {
+                        "name": "Peduli Covid",
+                        "image": "img3"
+                    },
+                    {
+                        "name": "Batuk & Pilek",
+                        "image": "img4"
+                    }
+                ],
+                "top_doctors": "Dokter Teratas",
+                "speciality": "khusus",
+                "All": "Semua",
+                "doctors_available_now": "Dokter Tersedia Sekarang",
+                "search_consern": {
+                    "health_consern": "Masalah kesehatan",
+                    "show_more": "Menampilkan lebih banyak",
+                    "show_less": "Tampilkan lebih sedikit"
+                },
+                "Doc_Card": {
+                    "Button": {
+                        "book_appointment": {
+                            "Book": "Buku",
+                            "Appointment": "Janji temu"
+                        },
+                        "Consult": "Konsultasikan Sekarang"
+                    },
+                    "Years": "Bertahun-tahun"
+                },
+                "Sidebar": {
+                    "view_profile": "Tampilkan profil",
+                    "medical_records": "Tampilkan profil",
+                    "your_family": "Keluargamu",
+                    "get_100_by_gifting_care": "Dapatkan 100 dengan Gifting Care",
+                    "about_docplus": "Tentang Docplus",
+                    "help_&_support": "Bantuan dan Dukungan",
+                    "privacy_policy": "Kebijakan pribadi",
+                    "setting": "Pengaturan",
+                    "sign_out": "Keluar",
+                    "sure": "Apakah Anda yakin ingin Keluar?",
+                    "cancel": " BATAL",
+                    "confirm": "KONFIRMASI"
+                },
+                "signOut_card": {
+                    "unlimited": "Tak terbatas",
+                    "consultations": "Konsultasi",
+                    "Consult_with_experts": "Konsultasikan dengan Ahlinya untuk masalah kesehatan Anda sehari-hari",
+                    "button": "DAPATKAN PLUS SEKARANG"
+                }
+            },
+            "privacy_policy": {
+                "header": "Kebijakan pribadi",
+                "welcome": "WELCOME TO",
+                "docplus": "DocPlus",
+                "1st": "Docplus is committed to protecting your privacy online. This Privacy Policy endeavours to describe to you our practices regarding the  personal information we collect from users on our website, located at https://www.docplus.online (the “Site”), and the services offered through the Site. If you have any questions about our Privacy Policy, our collection practices, the processing of user information, or if you would like to report a security violation tous directly, please contact us at welcome@docplus.online",
+                "intro": "INTRODUCTION TO POLICY",
+                "2nd": "This online privacy policy (“Privacy Policy”) explains DocPlus’s privacy practices for the docplus.online (together with its pages and features, “Site”) and mobile software application (together with its pages and features, “App”). This Privacy Policy explains how we collect, use, disclose and manage information that you provide to us on the Site or App, as well as how we care for your privacy and protect such information. This Privacy Policy applies to you and any person helping you visit, access, register with or use the Site or creates an Account, or otherwise provides any personal, company, financial or other information to us.",
+                "3rd": "When you access or use the site or App, or otherwise provide any information to us, you agree to this privacy policy. If you do not agree with our policies and practices, your choice is not to use our services. By accessing or using our services, you agree to this privacy policy, or to any changes we may subsequently make to this privacy policy. When you create, register or log into an account through the Site or the App, you are automatically accepting and agreeing to the most-recent version of this Privacy Policy, as well as the Site’s and the App’s Terms and Conditions.",
+                "4th": "The Site may contain links to other sites. This Privacy Policy doesnot apply to information collected on such third-party sites and weare not responsible for the privacy practices of such third partiesor the content of their",
+                "age": "USERS UNDER THE AGE OF 18 YEARS",
+                "5th": "The Site is intended for use by adults. Neither the Site nor the App is designed or intended to attract, and is not directed to, children under eighteen (18) years of age. No one under age 18 may provide any information to or on the Website, and no one under the age of 21 may register on the Website. We do not knowingly collect personal information from users under 18.",
+                "6th": "If you are under 18, do not use or provide any information on the Website, or on or through any of its features, use any of the interactive or public comment features of the Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any user name. If you are under the age of 21, you may not register with the Website and thus may not make any purchases or access educational services through the Website. If we learn we have collected or received personal information from a child under 18 without verification of parental consent, we will will use reasonable efforts to refrain from further using such personal information or maintaining it in retrievable form. If you believe we might have any information from or about a child under the age of 18, please contact us at care@docplus.com",
+                "category_info": "CATEGORIES OF INFORMATION COLLECTED",
+                "category": {
+                    "meta": "Kami dapat mengumpulkan informasi pribadi dan non-pribadi tentang Anda melalui Situs dan/atau Aplikasi.",
+                    "metaDesc": "Informasi yang Dikumpulkan melalui Situs dan/atau Aplikasi dapat mencakup",
+                    "Point": {
+                        "1st": "Nama (depan, belakang, dan/atau tengah) dan nama pengguna, Informasi kontak rumah (misalnya, alamat penagihan dan pengiriman, alamat email, nomor telepon, nomor faks), tanggal lahir, barang yang dibeli, kata sandi, kode pos/pos atau negara, jenis kelamin, tanggal lahir, tanda tangan elektronik, hobi, minat. ",
+                        "2nd": "Gambar foto atau video sejauh yang Anda berikan.",
+                        "3rd": " Riwayat medis, termasuk hasil kuesioner, survei, permintaan informasi, wawancara, atau interaksi dokumenter, teks, video, atau audio lainnya yang terkait dengan penyediaan layanan kesehatan .",
+                        "4th": "Nama penyedia layanan dan tanggal, waktu dan isi dari setiap pesan yang dikirim dari Anda kepada kami",
+                        "5th": "Koneksi internet, peralatan yang Anda gunakan untuk mengakses Situs kami dan rincian penggunaan",
+                        "6th": "Kartu kredit/debit dan informasi penagihan lainnya",
+                        "7th": "Informasi mengenai penggunaan layanan",
+                        "8th": " Informasi lain yang dikumpulkan secara otomatis atau yang Anda pilih untuk diberikan dengan cara, bentuk, atau bentuk apa pun"
+                    }
+                },
+                "category2": {
+                    "meta2": "Informasi Lain yang Dikumpulkan Dari Perangkat Seluler Anda dapat mencakup:",
+                    "Point2": {
+                        "1st": "Informasi ID perangkat seluler",
+                        "2nd": "Geolokasi",
+                        "3rd": " Nama yang terkait dengan perangkat seluler Anda",
+                        "4th": "Nomor telepon yang terkait dengan perangkat seluler Anda",
+                        "5th": "Dengan persetujuan tegas Anda, kontak dan/atau kontak Anda informasi (misalnya, nama, nomor telepon, alamat, alamat email, foto) yang disimpan di perangkat seluler Anda; dan/atau",
+                        "6th": "Dengan persetujuan tegas Anda, informasi tentang aplikasi perangkat lunak pihak ketiga di perangkat seluler Anda."
+                    }
+                },
+                "collected": {
+                    "meta": "PENGGUNAAN INFORMASI YANG DIKUMPULKAN",
+                    "metaDesc": "Kami dapat menggunakan informasi yang kami kumpulkan dari Anda dalam berbagai cara, seperti, misalnya, untuk:",
+                    "Point": {
+                        "1st": "Memfasilitasi penggunaan Anda atas Situs, Aplikasi dan/atau masing-masing produk dan/atau layanan",
+                        "2nd": "Mengirimkan Anda komunikasi seperti, misalnya, email administratif, jawaban atas pertanyaan Anda dan pembaruan tentang Situs dan/atau Aplikasi",
+                        "3rd": " Memproses pembayaran Anda",
+                        "4th": "Berikan informasi dan penawaran termasuk informasi tentang bisnis, produk, dan layanan pihak ketiga melalui surat, email, teks, telepon, atau bentuk komunikasi lainnya",
+                        "5th": "Meningkatkan Situs, konten Aplikasi, fitur dan/atau layanan",
+                        "6th": "Meningkatkan produk, layanan, pemasaran, dan upaya promosi DocPLus",
+                        "7th": "Membuat produk, layanan, pemasaran dan promosi untuk DocPLus",
+                        "8th": " Memasarkan bisnis, produk, dan/atau layanan DocPLus",
+                        "9th": "Membantu mempersonalisasi pengalaman pengguna dengan Situs, Aplikasi, dan/atau produk dan/atau layanannya masing-masing",
+                        "10th": "Membantu mempersonalisasi pengalaman pengguna dengan Situs, Aplikasi, dan/atau produk dan/atau layanannya masing-masing",
+                        "11th": "Menganalisis perilaku dan aktivitas pengguna di atau melalui Situs dan/atau Aplikasi",
+                        "12th": "Melakukan penelitian dan aktivitas pengukuran untuk tujuan penelitian dan pengembangan produk dan layanan, pembuktian klaim iklan, riset pasar, dan aktivitas lain yang terkait dengan Situs, Aplikasi dan/atau produk dan/atau layanannya masing-masing",
+                        "13th": "Pantau aktivitas Anda dan orang lain di atau melalui Situs dan/atau Aplikasi",
+                        "14th": "Melakukan dan melacak pesanan produk atas nama Anda",
+                        "15th": ""
+                    }
+                },
+                "7th": "While we do not currently use third party services that display customized content and advertising provided by us, we may do so in the future. We may also use the information for statistical and/or marketing purposes, to improve our technologies, to provide information about our company and to deliver advertising and promotional information from our partners and third-party vendors. We may add your information to our databases to contact you through future e-mails, postal mailings and SMS text-messaging regarding site updates, upcoming events, new products and services and/or the status of orders placed online. We reserve the right to release information to law enforcement or other governmental officials as we, in our sole discretion, deem necessary to comply with applicable law.",
+                "web": {
+                    "meta": "USE OF WEB TECHNOLOGY",
+                    "metaDesc": "DocPlus might use various tracking, data aggregation and/or data analysis technologies, including, for example, the following:",
+                    "Point": {
+                        "1st": {
+                            "heading": "COOKIES",
+                            "desc": "Cookie adalah file data kecil yang disimpan di browser atau perangkat yang Anda gunakan untuk melihat situs web atau pesan. Mereka dapat membantu menyimpan preferensi dan aktivitas pengguna, dan memungkinkan situs web mengenali browser atau perangkat tertentu. Ada beberapa jenis cookie, termasuk, misalnya, cookie browser, cookie sesi, dan cookie tetap. Cookie dapat merekam informasi yang Anda akses pada satu halaman situs web untuk menyederhanakan interaksi selanjutnya dengan situs web tersebut, atau untuk membantu merampingkan transaksi Anda di halaman terkait situs web tersebut. Sebagian besar browser utama diatur sehingga pada awalnya mereka akan menerima cookie, tetapi Anda mungkin dapat menyesuaikan preferensi browser atau perangkat Anda untuk memberi Anda peringatan saat cookie diunduh, atau untuk memblokir, menolak, menonaktifkan, menghapus, atau mengelola penggunaan dari beberapa atau semua cookie di browser atau perangkat Anda. Cookie ID sesi kedaluwarsa saat browser ditutup. Cookie persisten tetap ada di hard drive Anda untuk waktu yang lama. Cookie persisten juga memungkinkan kami untuk melacak dan menargetkan minat pengguna kami untuk meningkatkan pengalaman di Situs. Jika Anda menolak cookie, Anda masih dapat menggunakan Situs tetapi kemampuan Anda untuk menggunakan beberapa area Situs mungkin terbatas."
+                        },
+                        "2nd": {
+                            "heading": "Cookie Flash",
+                            "desc": "Cookie Flash adalah cookie yang ditulis menggunakan Adobe Flash, dan dapat disimpan secara permanen di perangkat Anda. Seperti cookie biasa, cookie Flash dapat membantu menyimpan preferensi dan aktivitas pengguna, dan memungkinkan situs web mengenali browser atau perangkat tertentu. Cookie flash tidak dikelola oleh pengaturan browser yang sama yang digunakan untuk cookie biasa."
+                        },
+                        "3rd": {
+                            "heading": "WEB BEACONS",
+                            "desc": "Web beacon adalah potongan kode yang disematkan di situs web atau email untuk memantau aktivitas Anda di situs web atau pembukaan email Anda, dan yang dapat menyampaikan informasi seperti alamat IP komputer atau perangkat yang Anda gunakan untuk melihat situs web atau membuka email, halaman URL tempat suar web berada, jenis browser yang digunakan untuk mengakses situs web, dan nilai cookie yang ditetapkan sebelumnya. Web beacon terkadang digunakan untuk mengumpulkan data iklan seperti menghitung tampilan halaman, tampilan promosi, atau tanggapan iklan. Menonaktifkan cookie komputer, perangkat, atau browser Anda dapat mencegah beberapa web beacon melacak atau merekam informasi tertentu tentang aktivitas Anda."
+                        },
+                        "4th": {
+                            "heading": "SCRIPTS",
+                            "desc": "Web beacon adalah potongan kode yang disematkan di situs web atau email untuk memantau aktivitas Anda di situs web atau pembukaan email Anda, dan yang dapat menyampaikan informasi seperti alamat IP komputer atau perangkat yang Anda gunakan untuk melihat situs web atau membuka email, halaman URL tempat suar web berada, jenis browser yang digunakan untuk mengakses situs web, dan nilai cookie yang ditetapkan sebelumnya. Web beacon terkadang digunakan untuk mengumpulkan data iklan seperti menghitung tampilan halaman, tampilan promosi, atau tanggapan iklan. Menonaktifkan cookie komputer, perangkat, atau browser Anda dapat mencegah beberapa web beacon melacak atau merekam informasi tertentu tentang aktivitas Anda."
+                        },
+                        "5th": {
+                            "heading": "ALAT ANALYTIC",
+                            "desc": "Alat analitik terkadang ditawarkan oleh pihak ketiga, dan yang melacak, mengukur, dan/atau menghasilkan informasi tentang lalu lintas situs web atau program, penjualan, audiens, dan informasi serupa, dan yang dapat digunakan untuk berbagai alasan, seperti, misalnya, penelitian statistik, penelitian pemasaran, dan penelitian peringkat konten, dan pelacakan konversi. Contoh alat dan layanan analitik yang mungkin digunakan DocPlus termasuk Google Analytics. DocPlus juga dapat menggunakan alat dan layanan analitik pihak ketiga lainnya. Kami menggunakan informasi ini untuk menganalisis tren, mengelola Situs, melacak pergerakan pengguna di sekitar Situs, dan mengumpulkan informasi demografis tentang basis pengguna kami secara keseluruhan."
+                        }
+                    }
+                },
+                "security": {
+                    "heading": "SECURITY",
+                    "desc": " We implement security measures to help protect the personal information we collect by using industry recognized security safeguards such as site monitoring, secured networks and servers, firewalls and encryption. When we ask for sensitive information, we protect it through the use of encryption during transmission, by using secure socket layer (SSL) technology. Regardless of the foregoing, please observe that “perfect” or “100%” security does not exist on the Internet. Therefore, your access and use of the Site and/or the App, and your opening of any communications sent through or as a function of the Site and/or the App, are done at your own risk. You are responsible for protecting against unauthorized access to your password and to your computer/mobile device. We ask you not to share your password with anyone.",
+                    "metaDesc": "To help maintain the security of your personal information, DocPlus asks that you please notify it immediately of any unauthorized visit, access or use of the Site and/or the App, or the loss or unauthorized use of your user access information for the Site and/or the App (e.g., username or password)."
+                },
+                "communication": {
+                    "heading": "KOMUNIKASI",
+                    "desc": "Berdasarkan informasi identitas pribadi yang Anda berikan kepada kami, kami dapat mengirimkan email selamat datang kepada Anda. Kami juga akan berkomunikasi dengan Anda sebagai tanggapan atas pertanyaan Anda, untuk menyediakan layanan apa pun yang Anda minta, untuk menyediakan buletin atau pembaruan lain yang Anda minta dan untuk mengelola Akun Anda. Selain itu, ketika Anda mendaftarkan Akun dengan kami, Anda dapat memilih untuk menyetujui kami menghubungi Anda melalui email dan menerima langganan email, email, dan email advertorial dari kami. Jika, sewaktu-waktu, Anda tidak lagi ingin kami menghubungi Anda melalui email dan/atau menerima langganan email, email, dan email advertorial kami, Anda dapat memilih keluar dari fungsi ini dengan mengubah preferensi di Akun. Anda dapat menghubungi layanan pelanggan melalui email di informasi kontak yang tercantum di bawah ini untuk membantu Anda dengan perubahan apa pun pada Akun Anda."
+                },
+                "thirdParty": {
+                    "heading": "JARINGAN SERVER IKLAN PIHAK KETIGA",
+                    "desc": "Situs kami dapat menggunakan pihak ketiga seperti pengiklan jaringan untuk menayangkan iklan di Situs kami dan dapat menggunakan layanan pengukuran lalu lintas untuk menganalisis lalu lintas di Situs kami. Penyedia jaringan iklan pihak ketiga Situs kami, pengiklan, sponsor dan/atau layanan pengukuran lalu lintas dapat mengatur dan mengakses cookie mereka sendiri dan teknologi lain di komputer Anda dan melacak informasi perilaku tertentu mengenai pengguna komputer Anda melalui alamat IP atau perangkat lain pengenal. Cookie pihak ketiga, suar web, dan teknologi pihak ketiga lainnya diatur oleh kebijakan privasi khusus masing-masing pihak ketiga, bukan yang ini."
+                },
+                "OPT": {
+                    "heading": "TO OPT OUT OF THIRD-PARTY TRACKING ON OUR SITE USE THE FOLLOWING TOOLS",
+                    "desc": "You may opt out of the Ad Tech Network by clicking http: //www.youronlinechoices.com/opt-out-interface.",
+                    "1st": "If you would like to opt out of having interest-based information collected during your visits to our Site or other sites, both the National Advertising Initiative (the “NAI”) and the Digital Advertising Alliance (the “DAA”) offer opt out tools to assist you in managing your choices. Click http: //www.networkadvertising.org/choices/ to visit the NAI opt out page and click http: //www.aboutads.info/choices/ for the DAA opt out page.",
+                    "2nd": "You may wish to visit http: //www.networkadvertising.org/understanding-online-advertising/ to learn more about interest-based advertising and your choices regarding having this information used by third parties and your“opt out” choices. Opting out through the DAA or the NAI only means that those DAA or NAI members will no longer be able to deliver targeted content and/or ads to you, which will affect our Site as well as other unaffiliated sites, but does not mean you will no longer receive any targeted content and/or ads. Also, if your browsers are configured to reject cookies when you visit these opt out pages, or you subsequently erase your cookies, use a different computer or change web browsers, your opt out choices may not, or may no longer, be effective."
+                },
+                "opting_out": {
+                    "heading": "OPTING OUT",
+                    "desc": "If you want to be removed from our marketing list and do not want us to send you e-mail, postal mail or other messages about our products and services, you can opt out. To do so, please send an e-mail to care@docplus.com, with the word “REMOVE” in the subject line. http: //www.youronlinechoices.com/opt-out-interface."
+                },
+                "california": {
+                    "heading": "HAK PRIVASI CALIFORNIA ANDA",
+                    "desc": "California Civil Code Bagian 1798.83 mengizinkan penduduk California untuk meminta informasi tertentu mengenai pengungkapan kami atas informasi pribadi penduduk tersebut kepada pihak ketiga untuk tujuan pemasaran langsung pihak ketiga tersebut. Untuk membuat permintaan seperti itu, silakan kirim email kepada kami di care@docplus.com"
+                },
+                "privacy_update": {
+                    "heading": "PEMBARUAN KEBIJAKAN PRIVASI",
+                    "desc": " Kami berhak mengubah Kebijakan Privasi ini setiap saat, jadi harap tinjau secara berkala. Setiap perubahan yang dibuat pada Kebijakan Privasi ini akan diposting di sini. Stempel tanggal di bagian atas halaman menunjukkan hari terakhir Kebijakan Privasi ini diperbarui. Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, Anda dapat menghubungi kami di care@docplus.com. Dengan memelihara Akun dengan kami, atau dengan menggunakan atau mengakses layanan apa pun yang disediakan oleh kami atau Situs, Anda akan dianggap telah menyetujui dan menerima Kebijakan Privasi ini."
+                },
+                "manage": {
+                    "heading": "KELOLA INFORMASI AKURAT",
+                    "1st": "Jika informasi pengenal pribadi Anda berubah, atau jika Anda tidak lagi memilih untuk menggunakan layanan kami atau Situs, Anda dapat menghubungi layanan pelanggan melalui email untuk membantu Anda dengan perubahan pada Akun Anda. Sejauh Akun Anda ditutup atau menjadi tidak aktif, kami akan terus melindungi informasi Anda seperti yang dijelaskan dalam Kebijakan Privasi ini. Anda dapat meminta setiap saat agar DocPlus memberi Anda kesempatan untuk meninjau dan mengubah informasi pribadi Anda yang dikumpulkan melalui Situs atau Aplikasi atau untuk tidak lagi menggunakan informasi pribadi Anda untuk menyediakan produk atau layanan apa pun kepada Anda.",
+                    "2nd": "Silakan kirimkan informasi tersebut kepada Anda. request (“Permintaan Mengenai Informasi Pribadi”) Melalui email: care@docplus.com, dengan baris subjek “Informasi Pribadi Anda”. Untuk setiap Permintaan Mengenai Informasi Pribadi, harap sebutkan “Informasi Pribadi Anda” di baris subjek email atau surat, dan sebutkan dengan jelas sifat permintaan Anda dan nama, alamat jalan, kota, negara bagian, kode pos, dan alamat email Anda. DocPlus tidak bertanggung jawab atas Permintaan apapun Mengenai Informasi Pribadi yang tidak lengkap, salah label, atau salah dikirim.",
+                    "3rd": "Anda bertanggung jawab penuh atas keakuratan dan isi informasi pribadi Anda, dan untuk menjaga informasi pribadi Anda terkini dan benar.",
+                    "4th": "Selanjutnya , DocPlus tidak menanggapi sinyal “jangan lacak” (DNT).",
+                    "5th": "Akhirnya, seperti yang dijelaskan lebih lanjut di atas, DocPlus tidak mengizinkan pihak ketiga untuk mengumpulkan informasi pribadi Anda saat Anda menggunakan Situs atau Aplikasi, kecuali sebagaimana dinyatakan secara tegas dalam ini Kebijakan pribadi. Sejauh diizinkan oleh hukum, DocPlus tidak bertanggung jawab atas, dan Anda dengan ini membebaskan DocPlus dari setiap dan semua kewajiban yang mungkin timbul dari, pengumpulan informasi pribadi Anda yang tidak sah oleh pihak ketiga tersebut"
+                },
+                "policy_update": {
+                    "heading": "PEMBARUAN KEBIJAKAN PRIVASI",
+                    "desc": "Jika ada syarat atau ketentuan dari Kebijakan Privasi ini yang dianggap tidak sah atau tidak dapat dilaksanakan oleh pengadilan dengan otoritas yang mengikat, maka Syarat dan Ketentuan lainnya tidak akan terpengaruh, dan pengadilan akan mereformasi syarat yang tidak valid atau tidak dapat diterapkan atau kondisi sejauh yang diizinkan berdasarkan hukum dan konsisten dengan maksud dari Kebijakan Privasi ini."
+                },
+                "international_users": {
+                    "heading": "PENGGUNA INTERNASIONAL",
+                    "desc": " DocPlus berbasis di Amerika Serikat, dengan server dan kantor pusat kami di Amerika Serikat. Perlu diketahui bahwa informasi yang Anda berikan kepada kami atau yang kami peroleh sebagai akibat dari penggunaan Anda atas Situs, Akun, atau layanan apa pun yang kami berikan dapat diproses dan ditransfer ke, dan tunduk pada hukum, Amerika Serikat . Undang-undang privasi dan perlindungan data di Amerika Serikat mungkin tidak setara dengan undang-undang serupa di negara tempat tinggal Anda. Dengan menggunakan Situs atau Akun, atau dengan memberikan informasi Anda kepada kami, Anda menyetujui pengumpulan, transfer, penyimpanan, dan pemrosesan informasi ke dan di dalam Amerika Serikat. Jika cookie kami atau perangkat lunak lain mendeteksi alamat IP yang terletak di negara di luar Amerika Serikat, kami berhak menolak akses ke setiap dan semua layanan kami."
+                },
+                "contact_us": {
+                    "heading": "HUBUNGI KAMI",
+                    "desc": "Jika Anda memiliki pertanyaan atau saran tentang Kebijakan Privasi ini, Situs atau Aplikasi, silakan hubungi kami melalui email:"
+                }
+            },
+            "DoctorProfileScreen": {
+                "header": "Profil Dokter",
+                "Card": {
+                    "Titile": {
+                        "patients": "pasien",
+                        "rating": "Peringkat",
+                        "experience": "Pengalaman"
+                    }
+                },
+                "info_card": {
+                    "Title": {
+                        "overview": "Gambaran",
+                        "availibility": "Ketersediaan",
+                        "fees": "Biaya"
+                    }
+                },
+                "bottom_card": {
+                    "appointment_time": "Waktu perjanjian",
+                    "Next_available_slot": "Slot Tersedia Berikutnya",
+                    "book": "Buku"
+                },
+                "availibility": {
+                    "title": "Waktu yang tersedia",
+                    "doctor_is_not_avail": "Dokter tidak tersedia untuk Tanggal yang dipilih",
+                    "avail_time": {
+                        "morning": "Pagi",
+                        "afternoon": "Sore",
+                        "evening": "Malam",
+                        "night": "Malam"
+                    }
+                }
+            },
+            "appointment_detail": {
+                "title": "Rincian Janji Temu",
+                "your_detail": "Detail Anda",
+                "switch_profile": "Ganti Profil",
+                "details": {
+                    "height": "Tinggi",
+                    "bp": "BP",
+                    "temp": "Suhu",
+                    "gulucose": "Glukosa",
+                    "heart_rate": "Detak Jantung",
+                    "weight": "Bobot"
+                },
+                "concern": "Kekhawatiran",
+                "plusCard": {
+                    "get": "Dapatkan konsultasi ini untuk 0",
+                    "with": " dengan Docplus",
+                    "pro": "Keanggotaan PRO"
+                },
+                "modal": {
+                    "title": "Apa alasan untuk konsultasi?",
+                    "search": "Ketik kekhawatiran Anda di sini",
+                    "common": "Masalah Kesehatan Umum"
+                },
+                "question": {
+                    "q1": "Apa alasan untuk konsultasi?",
+                    "q2": "Sejak kapan kamu merasa seperti ini?",
+                    "q3": "Seberapa sering Anda seperti ini?",
+                    "q4": "Seberapa parah gejala Anda?",
+                    "q5": "Jelaskan masalah Anda",
+                    "placeholder": "misalnya. terkadang sakit kepala lebih parah di malam hari",
+                    "optional": "Opsional",
+                    "least": "Paling sedikit",
+                    "very": "Sangat"
+                },
+                "question_card": {
+                    "q1": "Sejak Kapan",
+                    "q2": " Bagaimana sering",
+                    "q3": "Kerasnya",
+                    "q4": "rincian"
+                }
+            },
+            "confirm_appointment": {
+                "message": "Janji Temu Anda telah dipesan!",
+                "button": "MelihatDetail"
+            },
+            "booking_detail": {
+                "appointment_confirmed": " Detail Janji Temu (Dikonfirmasi)",
+                "detail": {
+                    "title": " Rincian Pasien",
+                    "patient": "Sabar",
+                    "condition": "Kondisi"
+                },
+                "cancel_button": "Membatalkan Janji Temu",
+                "bottom_sheet": {
+                    "title": {
+                        "1st": "Apakah kamu mau",
+                        "2nd": " Jadwal Ulang/Batalkan",
+                        "3rd": "janji temu"
+                    }
+                },
+                "button": {
+                    "reshedule": "Menjadwalkan ulang",
+                    "cancel": "Membatalkan"
+                }
+            },
+            "your_family": {
+                "who_using": "Siapa yang menggunakan Docplus?",
+                "withDoc": "Dengan profil Docplus Anda dapat berkonsultasi secara individual dan memiliki catatan medis terpisah. Anda dapat membuat profil untuk orang yang Anda cintai.",
+                "add": "Menambahkan",
+                "member": "Anggota",
+                "note": "Catatan: Anda dapat memiliki maksimal 4 anggota",
+                "noMember": "Tidak ada anggota yang ditemukan",
+                "modal": {
+                    "first_name": "Nama depan",
+                    "last_name": "nama keluarga",
+                    "relation": "Hubungan",
+                    "email": "Email",
+                    "gender": {
+                        "male": "Pria",
+                        "female": "Perempuan",
+                        "other": "perempuan"
+                    },
+                    "contact": "Kontak",
+                    "button": "Tambahkan anggota",
+                    "button2": "MEMPERBARUI"
+                }
+            },
+            "meidcalHistory": {
+                "search": "Mencari",
+                "by_name": "dengan nama",
+                "tabs": {
+                    "vitals": "Penting",
+                    "Meds": "Obat",
+                    "reports": "Laporan",
+                    "surgeries": "Pembedahan",
+                    "allergies": "Pembedahan",
+                    "refer": "Merujuk",
+                    "settings": "Pengaturan"
+                },
+                "Meds": {
+                    "placeholder": "Cari berdasarkan nama",
+                    "no_med": "Tidak ada obat yang ditambahkan",
+                    "button": "Tambahkan Obat-obatan"
+                }
+            },
+            "Doctor_screen": {
+                "Home": {
+                    "welcome_back": "Selamat Datang kembali!",
+                    "Hi": "Hai",
+                    "Next_appointment_card": {
+                        "Next_Appointment": "Janji Temu Berikutnya",
+                        "Name": " Nama",
+                        "Concern": "Kekhawatiran",
+                        "View_Details": "Melihat rincian"
+                    },
+                    "revenue_card": {
+                        "earning": "penghasilan",
+                        "Approximate_revenue_for": "Perkiraan Pendapatan untuk",
+                        "button": "Keterangan lebih lanjut"
+                    },
+                    "waiting_room_card": {
+                        "Waiting_room": "Ruang tunggu",
+                        "Patients_waiting_to_be": "Pasien Menunggu",
+                        "button": "Lihat Pasien"
+                    },
+                    "upcomming_appointment_card": {
+                        "Upcoming_appointments": "Janji Mendatang",
+                        "No_upcoming_appointments": " Tidak ada janji yang akan datang",
+                        "button": "Lihat semua"
+                    },
+                    "recent_patient_card": {
+                        "recent_patients": " Pasien Terbaru",
+                        "No_upcoming_appointments": " Tidak ada janji yang akan datang"
+                    },
+                    "new_user": {
+                        "Welcome!": " Selamat datang!",
+                        "Thank": "Terima kasih telah bergabung dengan kami untuk membuat",
+                        "healthcare_more": "kesehatan lebih mudah diakses",
+                        "Explore_docplus": "Jelajahi Docplus"
+                    }
+                }
+            },
+            "verifyCategory": {
+                "title": "Apakah Anda seorang dokter?",
+                "yes": "Ya",
+                "no": "Tidak"
+            },
+            "loginScreenCompo": {
+                "skip": "Melewati",
+                "welcome_to": "Selamat Datang di",
+                "docplus": "DocPlus",
+                "access_quality": "Akses Anda ke kualitas",
+                "make_quality": "Bantu kami membuat kualitas",
+                "moreAcess": "kesehatan lebih mudah diakses",
+                "yourComfort": "kesehatan sesuai kenyamanan Anda",
+                "convi": "dan kenyamanan",
+                "login_signup": "Masuk",
+                "button": "Melanjutkan",
+                "or": "ATAU",
+                "continue_with": "Berlanjut dengan",
+                "valid": "Silakan Masukkan Nomor yang Valid",
+                "number": "Nomor Anda",
+                "verified": "terverifikasi"
+            },
+            "otp_conf": {
+                "number": "Nomor Anda",
+                "verified": "terverifikasi",
+                "header": "Verifikasi",
+                "enter": "masukkan kode Anda",
+                "type": "Silakan ketik kode yang kami kirim ke",
+                "resendOtp": "Kirim ulang OTP",
+                "sent": "Kode berhasil dikirim!",
+                "button": "Melanjutkan",
+                "in": "di",
+                "resend": "Kirim Ulang Kode",
+                "second": "detik",
+                "error": "Kesalahan dalam mengirim ulang!",
+                "privacy_mess": "Dengan melanjutkan, Anda menyetujui Docplus’",
+                "condi": "Syarat dan ketentuan",
+                "And": "Dan",
+                "Privacy_Policy": "Kebijakan Privasi"
+            }
+        },
+        "appointments": {
+            "my_appointments": "Janji Saya",
+            "appointments_details": "Detail Janji",
+            "search_by_name": "Cari berdasarkan nama",
+            "search_by_name_disease": "Cari berdasarkan nama, penyakit atau lokasi",
+            "search_for_an_appointment": "cari janji temu",
+            "upcoming": "Mendatang",
+            "history": "Riwayat",
+            "no_appointments": "Tidak Ada Janji",
+            "to": "untuk",
+            "confirm": "KONFIRMASI",
+            "cancel": "Detail Janji0",
+            "pay_confirm": "Detail Janji1"
+        },
+        "patients_list": {
+            "patients_list": "Pasien Terbaru",
+            "no_patient_found": "Tidak ada pasien yang ditemukan",
+            "last_visit": "Kunjungan Terakhir",
+            "add_new": "Tambah Baru",
+            "add_patient": "Tambah Pasien"
+        },
+        "patient_details": {
+            "patient_details": "Rincian Pasien",
+            "reason_for_visit": "Alasan Kunjungan",
+            "appointments": "Janji Temu",
+            "medical_history": "Riwayat Medis"
+        },
+        "waiting": {
+            "online": "online",
+            "waiting_room": "Ruang Tunggu",
+            "offlie": "offline",
+            "to_pay": "UNTUK MEMBAYAR",
+            "accept": "Terima",
+            "cancel": "Batal",
+            "reason_visit": "Alasan kunjungan",
+            "last_visit": "Kunjungan Terakhir",
+            "no_of_patient": "No. pasien di ruang tunggu",
+            "next_in_line": "Antrian berikutnya",
+            "no_app_found": "Ruang Tunggu0",
+            "appointment_with": "Ruang Tunggu1"
+        },
+        "template": {
+            "no_temp_added": "Tidak Ada Template yang Ditambahkan",
+            "add_temp": "Tambah Template",
+            "med": "Obat",
+            "rep": "Laporan",
+            "con": "Ketentuan",
+            "rep_name": "Nama Laporan",
+            "rep_type": "Jenis Laporan",
+            "update": "UPDATE"
+        },
+        "medical_history": {
+            "weight": "Berat badan",
+            "recorded_on": "Tercatat pada",
+            "height": "Tinggi Badan",
+            "blood_pressure": "Tekanan Darah",
+            "heart_rate": "Detak Jantung",
+            "temperature": "Suhu",
+            "glucose": "Glukosa",
+            "enter_your_bp": "Masukkan Tekanan Darah Anda",
+            "search_symptoms": "Cari gejala Anda",
+            "to": "ke",
+            "no_medicine_added": "Tercatat pada0",
+            "add_medications": "Tercatat pada1",
+            "add_reports": "Tercatat pada2",
+            "no_record_added": "Tercatat pada3",
+            "added_by": "Tercatat pada4",
+            "download_report": "Tercatat pada5",
+            "upload_report": "Tercatat pada6",
+            "upload_report_file": "Tercatat pada7",
+            "no_surgeries_found": "Tercatat pada8",
+            "add_surgeries": "Tercatat pada9",
+            "date": "Tinggi Badan0",
+            "calendar": "Tinggi Badan1",
+            "ot": "Tinggi Badan2",
+            "surgeon": "Tinggi Badan3",
+            "status": "Tinggi Badan4",
+            "no_allergies_found": "Tinggi Badan5",
+            "add_allergies": "Tinggi Badan6",
+            "severity": "Tinggi Badan7",
+            "reaction": "Tinggi Badan8",
+            "add_height": "Tinggi Badan9",
+            "add_your_height": "Tekanan Darah0",
+            "add_weight": "Tekanan Darah1",
+            "fat_mass": "Tekanan Darah2",
+            "record_temperature": "Tekanan Darah3",
+            "record_your_temp": "Tekanan Darah4",
+            "centigrade": "Tekanan Darah5",
+            "fahrenheit": "Tekanan Darah6",
+            "pulse": "Tekanan Darah7",
+            "add_blood_pressure": "Tekanan Darah8",
+            "systolic": "Tekanan Darah9",
+            "diastolic": "Detak Jantung0",
+            "add_surgery_details": "Detak Jantung1",
+            "add_heart_rate": "Detak Jantung2",
+            "add_pills": "Detak Jantung3",
+            "time": "Detak Jantung4",
+            "allergy_name_type": "Detak Jantung5",
+            "course_description": "Detak Jantung6",
+            "search_medicine": "Detak Jantung7",
+            "name_of_the_pill": "Detak Jantung8",
+            "amount_to_be_taken": "Detak Jantung9",
+            "course_duration": "Suhu0",
+            "cancel": "Suhu1",
+            "add_a_record": "Suhu2"
+        },
+        "AddAppoitments": {},
+        "AddQuestionnaire": {
+            "AddCategory": {
+                "categories": "Kategori",
+                "add_category": "Tambahkan Kategori",
+                "category_name": "Nama Kategori",
+                "title": "Judul",
+                "name_of_category": "Nama Kategori",
+                "question_type": "Jenis Pertanyaan",
+                "type_your_question": "Ketik Pertanyaan Anda",
+                "submit": "Kirim",
+                "any_sub_question": "Ada Sub Pertanyaan?",
+                "no_questions": "Tidak Ada Pertanyaan, tambahkan sekarang!",
+                "add_option": "Tambahkan Kategori0",
+                "update": "Tambahkan Kategori1",
+                "delete": "Tambahkan Kategori2",
+                "add_question": "Tambahkan Kategori3",
+                "reset": "Tambahkan Kategori4",
+                "next": "Tambahkan Kategori5",
+                "no_question_asked": "Tambahkan Kategori6",
+                "you_can_skip": "Tambahkan Kategori7"
+            },
+            "Categories": {
+                "categories": "Kategori",
+                "vitals": "VITAL",
+                "each_criteria_can_be_edited_and_modified": "Setiap kriteria dapat diedit dan dimodifikasi.",
+                "view": "Lihat",
+                "add_category": "TAMBAH KATEGORI"
+            }
+        },
+        "Chats": {
+            "search": "cari",
+            "convers": "Percakapan",
+            "search_chat": "Cari Obrolan...",
+            "type_a_message": "Ketik pesan...",
+            "chat": "Obrolan",
+            "add_pres": "Tambah Resep",
+            "refer": "Refer"
+        },
+        "DoctorDetail": {},
+        "FindDoctor": {
+            "now": "SEKARANG",
+            "search_your_patient": "cari pasien Anda",
+            "available_doctors": "Dokter yang Tersedia"
+        },
+        "home": {
+            "appointments": "Janji janji",
+            "hello": "Halo",
+            "you_have": "Anda punya"
+        },
+        "Languages": {
+            "region_and_lang": "Wilayah dan Bahasa",
+            "region": "Wilayah",
+            "language": "Bahasa"
+        },
+        "PatientDetails": {
+            "patient_details": "Rincian Pasien",
+            "medical_history": "Riwayat Medis",
+            "reports": "Laporan",
+            "appointments": "Janji Temu",
+            "notes": "Catatan",
+            "save_changes": "SIMPAN PERUBAHAN"
+        },
+        "Patients": {
+            "patients": "Pasien",
+            "last_visit": "Kunjungan Terakhir"
+        },
+        "Profile": {
+            "pers_info": "Informasi Pribadi",
+            "upload": "Unggah",
+            "email": "Email",
+            "fees": "Biaya",
+            "phone": "Telepon",
+            "about_you": "Tentang Anda",
+            "registration_no": "Nomor Pendaftaran",
+            "registration_council": "Dewan Pendaftaran",
+            "registration_year": "Tahun Pendaftaran",
+            "url": "Url",
+            "year": "Unggah0",
+            "yes": "Unggah1",
+            "no": "Unggah2",
+            "upload_sign": "Unggah3",
+            "appointments": "Unggah4",
+            "questionaire": "Unggah5",
+            "logout": "Unggah6"
+        },
+        "Referrals": {
+            "refer_a_friend": "Referensikan Teman",
+            "rewards": "Hadiah",
+            "refer_friends.": "Referensikan teman.",
+            "unlock_rewards": "Buka hadiah"
+        },
+        "Settings": {
+            "settings": "Pengaturan",
+            "notification": "Pemberitahuan",
+            "sms_notification": "Pemberitahuan SMS",
+            "mobile_notification": "Pemberitahuan Seluler",
+            "email_notification": "Pemberitahuan Email",
+            "booking_details": "Detail Pemesanan",
+            "account": "Akun",
+            "old_pass": "Kata Sandi Lama",
+            "new_pass": "Kata Sandi Baru",
+            "con_pass": "Konfirmasi Kata Sandi",
+            "on": "Pemberitahuan0",
+            "off": "Pemberitahuan1",
+            "edit_your_profile": "Pemberitahuan2",
+            "signout": "Pemberitahuan3",
+            "doctor_on_demand": "Pemberitahuan4",
+            "block": "Pemberitahuan5",
+            "logout": "Pemberitahuan6",
+            "update_profile_picture": "Pemberitahuan7",
+            "gallery": "Pemberitahuan8",
+            "camera": "Pemberitahuan9",
+            "remove_photo": "Pemberitahuan SMS0",
+            "update_profile_details": "Pemberitahuan SMS1",
+            "submit": "Pemberitahuan SMS2",
+            "my_appointments": "Pemberitahuan SMS3",
+            "questionnaire": "Pemberitahuan SMS4",
+            "clinics": "Pemberitahuan SMS5",
+            "template": "Pemberitahuan SMS6",
+            "my_staff": "Pemberitahuan SMS7",
+            "availability": "Pemberitahuan SMS8",
+            "payment": "Pemberitahuan SMS9",
+            "my_teams": "Pemberitahuan Seluler0",
+            "profile": "Pemberitahuan Seluler1",
+            "skin": "Pemberitahuan Seluler2",
+            "privacy_policy": "Pemberitahuan Seluler3",
+            "phone": "nomor ponsel",
+            "email": "email"
+        },
+        "clinics": {
+            "no_clinics_found": "Tidak Ada Klinik Ditemukan"
+        },
+        "Skins": {
+            "primary": "Utama",
+            "dark": "Gelap",
+            "mini": "Mini"
+        },
+        "profile": {
+            "profile": "Profil",
+            "name": "Nama",
+            "age": "Usia",
+            "gender": "Jenis Kelamin",
+            "bio": "Bio",
+            "education_qualifications": "Kualifikasi Pendidikan",
+            "registration_details": "Detail Pendaftaran",
+            "payment": "Pembayaran",
+            "view_policy": "Lihat Kebijakan",
+            "country_wise_fee": "Tambahkan biaya konsultasi berdasarkan negara",
+            "practice": "Nama0",
+            "follow_ups": "Nama1",
+            "strict": "Nama2",
+            "moderate": "Nama3",
+            "flexible": "Nama4"
+        },
+        "view_policy": {
+            "cancellation_policy": "Kebijakan Pembatalan",
+            "flexible_para": "Pengembalian dana penuh jika pembatalan dalam waktu 6 jam setelah pemesanan Untuk pengembalian dana penuh dari biaya Konsultasi, pembatalan harus dilakukan 6 jam sebelum waktu Janji Temu.Jika pasien membatalkan kurang dari 6 jam sebelumnya 60% dari biaya Konsultasi [sebagai jumlah atau % jumlah] akan dikembalikan.",
+            "moderate_para": "Pengembalian dana penuh jika pembatalan dalam waktu 24 jam dari pemesanan (1 hari) Untuk pengembalian dana penuh dari biaya Konsultasi, pembatalan harus dilakukan 1 hari sebelum waktu Janji Temu. Misalnya, jika Janji Temu dilakukan pada hari Jumat, batalkan pada hari Selasa sebelum waktu Janji Temu. Jika pasien membatalkan kurang dari satu hari sebelumnya 60% dari biaya Konsultasi [sebagai jumlah atau % jumlah] akan dikembalikan.",
+            "strict_para": "Pengembalian dana penuh jika pembatalan dalam waktu 72 jam dari pemesanan (3 hari) Untuk pengembalian dana 50% dari Konsultasi biaya, pembatalan harus dilakukan 5 hari penuh sebelum waktu Janji Temu, jika tidak, tidak ada pengembalian uang. Jika pasien membatalkan kurang dari 5 hari sebelumnya 60% dari biaya Konsultasi [sebagai jumlah atau % jumlah] dari biaya Konsultasi akan dikembalikan."
+        },
+        "my_staff": {
+            "_inviteemail": "Undang melalui Email",
+            "invite_doctor": "Undang Dokter",
+            "permissions": "Izin",
+            "my_appointments": "Janji Saya",
+            "questionnaire": "Kuesioner",
+            "clinics": "Klinik",
+            "availiblity": "Ketersediaan",
+            "my_staff": "Staf Saya",
+            "payment": "Pembayaran",
+            "my_teams": "Tim Saya",
+            "skin": "Undang Dokter0",
+            "email": "Undang Dokter1",
+            "phone_number": "Undang Dokter2",
+            "add_doctor": "Undang Dokter3",
+            "doctor_name": "Undang Dokter4",
+            "doctor_not_available": "Undang Dokter5",
+            "invite_to_join_docplus": "Undang Dokter6"
+        },
+        "my_teams": {
+            "my_teams": "Tim Saya",
+            "teams": "Tim",
+            "team_name": "Nama Tim",
+            "requests": "Permintaan",
+            "no_pending_requests": "Tidak ada permintaan tertunda",
+            "no_teams_found": "Tim tidak ditemukan",
+            "add_team_details": "Tambahkan Detail Tim",
+            "update": "PERBARUI"
+        },
+        "payment": {
+            "payment": "Pembayaran",
+            "payment_option": "Pilih opsi pembayaran",
+            "add_bank_details": "Tambahkan detail bank",
+            "payment_after_consult": "Pembayaran setelah konsultasi",
+            "payment_before_consult": "Pembayaran sebelum konsultasi",
+            "danate_time": "Waktu Donasi"
+        },
+        "availablity": {
+            "availability": "Ketersediaan",
+            "tele_consult": "Tele-konsultasi",
+            "in_person": "Tamu langsung",
+            "appointment_duration": "Durasi Janji Temu",
+            "choose_any_day": "Pilih hari apa saja dalam seminggu untuk mengulang ketersediaan ini",
+            "working_hours": "Jam Kerja",
+            "start_time": "Waktu Mulai",
+            "end_time": "Waktu Berakhir",
+            "break_hours": "Jam Istirahat",
+            "monday": "Senin",
+            "tuesday": "Tele-konsultasi0",
+            "wednesdayy": "Tele-konsultasi1",
+            "thursday": "Tele-konsultasi2",
+            "friday": "Tele-konsultasi3",
+            "saturday": "Tele-konsultasi4",
+            "sunday": "Tele-konsultasi5"
+        }
+    },
+    "patient": {
+        "appointmentForm": {},
+        "appointments": {
+            "appointment": "Penunjukan",
+            "add_notes": "Tambahkan catatan untuk dokter",
+            "contact_number": "Nomor Kontak",
+            "reason_for_visit": "Alasan kunjungan"
+        },
+        "consultations": {
+            "consult": "Berkonsultasi"
+        },
+        "doc_profile": {
+            "doc_plus": "DocPlus",
+            "permission_msg": "Aplikasi ini membutuhkan akses ke lokasi Anda ",
+            "doctor_profile": "Profil Dokter",
+            "reviews": "Ulasan",
+            "review": "Ulasan",
+            "patients": "Pasien",
+            "patient": "Pasien",
+            "experience": "Pengalaman",
+            "about": "Tentang",
+            "fee": "Biaya",
+            "feedback": "Aplikasi ini membutuhkan akses ke lokasi Anda 0",
+            "book_appointment": "Aplikasi ini membutuhkan akses ke lokasi Anda 1",
+            "consultation_fees": "Aplikasi ini membutuhkan akses ke lokasi Anda 2",
+            "exp_question": "Aplikasi ini membutuhkan akses ke lokasi Anda 3",
+            "add_feedback": "Aplikasi ini membutuhkan akses ke lokasi Anda 4",
+            "feedbacks": "Aplikasi ini membutuhkan akses ke lokasi Anda 5",
+            "tell_us_liked": "Aplikasi ini membutuhkan akses ke lokasi Anda 6",
+            "book": "Aplikasi ini membutuhkan akses ke lokasi Anda 7",
+            "doc_not_avail": "Aplikasi ini membutuhkan akses ke lokasi Anda 8"
+        },
+        "appointment_summary": {
+            "appointment_summary": "Ringkasan Janji",
+            "patient_details": "Rincian Pasien",
+            "consultation_fee": "Biaya Konsultasi",
+            "notes": "Catatan",
+            "answers": "Jawaban",
+            "reason": "Alasan",
+            "add_notes": "Tambahkan Catatan untuk Dokter"
+        },
+        "familyMember": {
+            "family_member": "Anggota Keluarga",
+            "no_member_found": "Tidak ada anggota yang ditemukan",
+            "add_member": "Tambah Anggota",
+            "first_name": "Nama depan",
+            "last_name": "Nama belakang",
+            "email": "Email",
+            "phone_number": "Nomor Telepon",
+            "gender": "Jenis Kelamin",
+            "male": "Laki-Laki",
+            "female": "Wanita",
+            "transgender": "Tidak ada anggota yang ditemukan0",
+            "date_of_birth": "Tidak ada anggota yang ditemukan1",
+            "contact_number": "Tidak ada anggota yang ditemukan2",
+            "relationship": "Tidak ada anggota yang ditemukan3",
+            "cancel": "Tidak ada anggota yang ditemukan4",
+            "add": "Tidak ada anggota yang ditemukan5"
+        },
+        "home": {
+            "find_a_doctor": "Temukan Dokter",
+            "now": "SEKARANG",
+            "schedule": "JADWAL",
+            "search_your_patient": "cari pasien Anda",
+            "available_doctors": "Dokter yang Tersedia",
+            "empty": "Kosongkan",
+            "empty_superDocs": "Kosongkan superDocs"
+        },
+        "medicalrecords": {
+            "hello": "Halo",
+            "medical_history": "Riwayat Medis",
+            "add_a_new_medication": "Tambahkan obat baru",
+            "save": "Simpan",
+            "search_medicine": "Cari Obat",
+            "dose_appearance": "Penampakan Dosis",
+            "colors": "Warna",
+            "take_as_per_needed": "Ambil sesuai kebutuhan",
+            "schedule": "Jadwal",
+            "start_date": "Tanggal Mulai",
+            "select_start_date": "Riwayat Medis0",
+            "end_date": "Riwayat Medis1",
+            "reminders_&_Dosage": "Riwayat Medis2"
+        },
+        "more": {
+            "help": {},
+            "settings": {}
+        },
+        "my_profile": {
+            "my_profile": "Profil Saya",
+            "medical_history": "Riwayat Medis",
+            "my_family": "Keluarga Saya",
+            "my_healthcare_team": "Tim Kesehatan Saya",
+            "my_appointments": "Janji Janji Saya",
+            "my_transactions": "Transaksi Saya",
+            "refferal": "Referensi",
+            "settings": "Pengaturan",
+            "logout": "Logout",
+            "update_profile_picture": "Perbarui Gambar Profil",
+            "gallery": "Riwayat Medis0",
+            "camera": "Riwayat Medis1",
+            "remove_photo": "Riwayat Medis2",
+            "update_profile_details": "Riwayat Medis3",
+            "submit": "Riwayat Medis4"
+        },
+        "medical_history": {
+            "medical_history": "Riwayat Medis",
+            "recorded_on": "Direkam pada",
+            "modified_by": "Diubah Oleh",
+            "systolic": "Sistolik",
+            "diastolic": "Diastolik",
+            "blood_sugar": "Gula Darah",
+            "name_of_report": "Nama Laporan",
+            "type_of_test": "Jenis Tes",
+            "surgery_type": "Jenis Operasi",
+            "surgion_name": "Nama Pembedahan",
+            "ot_or": "Direkam pada0",
+            "select_date": "Direkam pada1"
+        },
+        "medical_logs": {
+            "medical_logs": "Log Medis",
+            "no_log_found": "Log Medis Tidak Ditemukan"
+        },
+        "my_family": {
+            "my_family": "Keluarga Saya",
+            "no_family_member_added": "Tidak ada anggota Keluarga yang ditemukan",
+            "add_member": "Tambah Anggota",
+            "first_name": "Nama Depan",
+            "last_name": "Nama Belakang",
+            "relationship": "Hubungan",
+            "email": "Email",
+            "phone_number": "Nomor Telepon",
+            "contact": "Nomor Kontak",
+            "select_gender": "Pilih Jenis Kelamin",
+            "male": "Tidak ada anggota Keluarga yang ditemukan0",
+            "female": "Tidak ada anggota Keluarga yang ditemukan1",
+            "transgender": "Tidak ada anggota Keluarga yang ditemukan2",
+            "medical_history": "Tidak ada anggota Keluarga yang ditemukan3",
+            "date_of_birth": "Tidak ada anggota Keluarga yang ditemukan4",
+            "cancel": "Tidak ada anggota Keluarga yang ditemukan5",
+            "add": "Tidak ada anggota Keluarga yang ditemukan6",
+            "update": "Tidak ada anggota Keluarga yang ditemukan7"
+        },
+        "my_doctors": {
+            "my_doctors": "Dokter Saya",
+            "no_doctors": "Tidak Ada Dokter"
+        },
+        "transactions": {
+            "payment": "Pembayaran",
+            "pay": "Bayar",
+            "transactions": "Transaksi",
+            "to": "ke",
+            "no_transactions": "Tidak Ada Transaksi",
+            "latest_first": "Terbaru lebih dulu",
+            "high_to_low": "Tinggi ke Rendah",
+            "reset": "Reset",
+            "cancel": "Batal"
+        },
+        "refferal": {
+            "refferal": "Referensi",
+            "invite_friends": "Undang Teman. Dapatkan plus gratis",
+            "reward": "Dapatkan plus gratis satu minggu untuk setiap teman yang bergabung dengan DocPlus",
+            "invite": "Undang"
+        },
+        "settings": {
+            "docplus": "DocPlus",
+            "continue_as": "Lanjutkan sebagai",
+            "select_name": "Pilih Nama",
+            "language": "Bahasa",
+            "continue": "LANJUTKAN"
+        },
+        "landing_page": {
+            "search_by_symptom": "Cari berdasarkan kondisi, gejala, lokasi...",
+            "press_again_to_exit": "Tekan lagi untuk Keluar",
+            "search_for_doctor": "Cari dokter",
+            "all_doctors": "Semua Dokter",
+            "female_doctors": "Dokter Wanita",
+            "male_doctors": "Dokter Pria",
+            "favorites": "Favorit",
+            "sort_by_name": "Urutkan Berdasarkan Nama",
+            "cancel": "Batal",
+            "no_doctor_found": "Tidak ada dokter yang ditemukan ",
+            "more": "Tekan lagi untuk Keluar0",
+            "now": "Tekan lagi untuk Keluar1",
+            "schedule": "Tekan lagi untuk Keluar2",
+            "exit_toast": "Tekan lagi untuk Keluar",
+            "welcome": "Tekan lagi untuk Keluar3",
+            "welcome_back": "Tekan lagi untuk Keluar4",
+            "choose_account_type": "Tekan lagi untuk Keluar5"
+        },
+        "signup": {
+            "first_name": "Nama depan",
+            "last_name": "Nama belakang",
+            "email": "Email",
+            "password": "Kata Sandi",
+            "register_as_staff": "Daftar sebagai anggota staf?",
+            "already_have_accound": "Sudah punya akun?",
+            "sign_in": "Sign In",
+            "sign_up": "Sign Up",
+            "sign_in_caps": "SIGN IN",
+            "signup_with": "Sign up with",
+            "next": "Nama belakang0",
+            "submit": "Nama belakang1",
+            "hey_there": "Nama belakang2",
+            "sign_up_as_doctor": "Nama belakang3",
+            "step1": "Step 1",
+            "phone_no": "Nama belakang4"
+        },
+        "login": {
+            "login_as_doctor": "Login sebagai dokter",
+            "login_as_patient": "Login sebagai pasien",
+            "email_or_phone": "Email/No Telepon",
+            "forgot_password": "Lupa Password?",
+            "login": "Login",
+            "login_with": "Login dengan",
+            "login_with_otp": "Login Dengan OTP!",
+            "change_pass": "Ubah Password!",
+            "or": "atau",
+            "login_caps": "LOGIN",
+            "pass": "Login sebagai pasien0",
+            "send_otp": "Login sebagai pasien1",
+            "dont_have_acc": "Login sebagai pasien2",
+            "login_otp": "Login sebagai pasien3",
+            "enter_your_code": "Login sebagai pasien4"
+        }
+    }
+}
